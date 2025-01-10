@@ -1,9 +1,9 @@
-## Project Abandoned
-I no longer use Twitter so i have no intentions to make any updates. You are welcome to make your own custom IPAs as ive seen some other people do after this repo started to gain traction.
+# NeoFreeBird
+NeoFreeBird is a modified version of a modern Twitter (also known as X) app with various changes such as branding reverts and removal of unneeded features along with BetterBH for blocking ads, getting various Twitter Blue features for free and being able to customize Twitter in various ways like picking your own font or similar. 
 
-# FreeBird
-FreeBird is an custom IPA of twitter that aims to remove as much X branding and text as possible as well as remove unnecessary changes.
+NeoFreeBird differs from older Twitter app versions as it uses a more recent Twitter app in order to keep features working for potentional API changes and similar along with keeping optimizations for newer devices.
 
-This is done by patching files in the offical ipa with ones from pre-X versions of twitter. (you might still find refrences to X and "posts" in some places.)
+> [!NOTE]  
+> You may still see some X branding and references to posts/posting, especally in web based stuff, like Community Notes.
 
-BHTwitter is injected in the IPA as-well so you can block twitter ads and more.
+NeoFreeBird is forked from FreeBird by nyathea as they've abandoned it.
