@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> NeoFreeBird is currently under testing. A build will be released once testing is complete. 
+
 # NeoFreeBird
 NeoFreeBird is a modified version of a modern Twitter (also known as X) app with various changes such as branding reverts and removal of unnecessary features along with BetterBH for blocking ads, getting various Twitter Blue features for free and being able to customize Twitter in various ways like picking your own font or similar. 
 
