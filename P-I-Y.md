@@ -29,7 +29,7 @@ Now, extract the ipa you downloaded earlier by renaming it from .IPA to .ZIP, th
 
 Next, drag the Contents of the Patches Folder into the .app (so the Assets.car, en.lproj, ...), choose "Replace" when asked if you want to replace the existing files.
 
-<img width="516" alt="Screenshot 2025-01-12 at 14 55 28" src="https://github.com/user-attachments/assets/682c6519-16b8-4471-a9bb-0e5d7d80245d" />
+<img width="516" alt="Old vs New icons" src="https://github.com/user-attachments/assets/682c6519-16b8-4471-a9bb-0e5d7d80245d" />
 
 
 ## 3. Installing the app
