@@ -38,4 +38,4 @@ Now we have to create a new ipa using the Patched Twitter App we just made, to d
 > [!TIP]
 > You can use a tool like [Sideloadly](https://sideloadly.io) or [AltStore Classic](https://altstore.io) to install the IPA
 
-Profit!
+### Profit!
