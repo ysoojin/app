@@ -14,16 +14,12 @@ or by [Downloading it as a ZIP](https://github.com/actuallyaridan/NeoFreeBird/ar
 
 then, go into either the new-Twitter-icons Folder to use the newer icons or into the old-Twitter-icons Folder to use the older icons.
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-    <div style="text-align: center;">
-      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 20vh;">
-      <p>old</p>
+<html>
+    <div>
+      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 60vh;">
+      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 60vh;>
     </div>
-    <div style="text-align: center;">
-      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 20vh;">
-      <p>new</p>
-    </div>
-  </div>
+</html>
   
 
   
