@@ -4,12 +4,10 @@ NeoFreeBird is a modified version of a modern Twitter (also known as X) app with
 NeoFreeBird differs from older Twitter app versions as it uses a more recent Twitter app in order to keep features working for potential API changes and similar along with keeping optimizations for newer devices.
 
 > [!NOTE]  
-> You may still see some X branding and references to posts/posting, especially in web based stuff, like Community Notes.
+> <b>There are some remaints</b><br>You may still see some X branding and references to posts/posting, especially in web based stuff like Community Notes.
+
+> [!TIP]
+> <b>Would you rather add the patches yourself instead of using the IPA?</b> <br>
+> You can follow [these instructions](/P-I-Y.md) in order to make your own NeoFreeBird.
 
 NeoFreeBird is forked from FreeBird by nyathea as they've abandoned it.
-
-> [!IMPORTANT]  
-> NeoFreeBird is currently under testing. A build will be released once testing is complete. 
-
-## I don't trust pre-built apps
-Don't worry! You can manually apply the patches yourself! Just follow [these instructions](/P-I-Y.md).
