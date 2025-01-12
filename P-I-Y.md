@@ -23,7 +23,7 @@ Next, decide if you'd like the older icons or the newer ones. Pick the folder co
 
 Now, extract the ipa you downloaded earlier by renaming it from .IPA to .ZIP, then go into the extracted "Payload" Folder and 
 
-**If on macOS:** Right Click the X.app and Choose "Show Package Contents"
+**If on macOS:** Right Click the Twitter.app and Choose "Show Package Contents"
 
 **If on Windows and Linux:** Just double Click on the X.app Folder
 
