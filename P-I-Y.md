@@ -6,5 +6,10 @@ Get a decrypted ipa of the latest Version by either decrypting it yourself from 
 
 ## 2. Modifying the app
 Now comes the fun part! Clone the repo using 
-```git clone https://github.com/actuallyaridan/NeoFreeBird.git``` or by [Downloading it as a ZIP](https://github.com/actuallyaridan/NeoFreeBird/archive/refs/heads/main.zip)
+```sh
+git clone https://github.com/actuallyaridan/NeoFreeBird.git
+```
+
+or by [Downloading it as a ZIP](https://github.com/actuallyaridan/NeoFreeBird/archive/refs/heads/main.zip)
+
 ## 3. Installing the app
