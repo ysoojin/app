@@ -17,7 +17,7 @@ then, go into either the new-Twitter-icons Folder to use the newer icons or into
 <html>
     <div>
       <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 60vh;">
-      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 60vh;>
+      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 60vh;">
     </div>
 </html>
   
