@@ -10,3 +10,6 @@ NeoFreeBird is forked from FreeBird by nyathea as they've abandoned it.
 
 > [!IMPORTANT]  
 > NeoFreeBird is currently under testing. A build will be released once testing is complete. 
+
+## I don't trust pre-built apps
+Don't worry! You can manually apply the patches yourself! Just follow [these instructions](/P-I-Y.md).
