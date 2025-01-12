@@ -34,7 +34,10 @@ Next, drag the Contents of the Patches Folder into the .app (so the Assets.car, 
 
 ## 3. Installing the app
 
-Now we have to create a new ipa using the Patched Twitter App we just made, to do that, make a new Folder called "Payload" and drag the X.app in, then Compress it into a ZIP file and rename it to "something.IPA" where something can be any name you like, after doing that the app is ready to be installed! 
+Now we have to create a new ipa using the Patched Twitter App we just made, to do that, make a new Folder called "Payload" and drag the X.app in, then Compress it into a ZIP file and rename it to "something.IPA" where something can be any name you like.
+
+Now, the app is ready to be installed! 
+
 > [!TIP]
 > You can use a tool like [Sideloadly](https://sideloadly.io) or [AltStore Classic](https://altstore.io) to install the IPA
 
