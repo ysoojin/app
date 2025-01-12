@@ -1,5 +1,5 @@
 # PIY - Patch it Yourself
-You can create your own version of NeoFreeBird if you'd like to avoid using random IPAs from GitHub. You just need to find an official Twitter IPA, then inject the tweaks and install it. If you prefer a video based tutorial you can use this [video tutorial](https://example.com)
+You can create your own version of NeoFreeBird if you'd like to avoid using random IPAs from GitHub. You just need to find an official Twitter IPA, then inject the tweaks and install it. If you prefer a video based tutorial you can use this [video tutorial](https://youtube.com/embed/UhMRK7nfwuU)
 
 ## 1. Getting the app
 First of all, you need a decrypted Twitter IPA. You can get one by either decrypting it yourself from a jailbroken iPhone, or using services like the [Decrypted App Store](https://armconverter.com/decryptedappstore/us) or [Decrypt.day](https://decrypt.day)
