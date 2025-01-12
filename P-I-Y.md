@@ -21,10 +21,21 @@ Next, decide if you'd like the older icons or the newer ones. Pick the folder co
 ![Old vs. New Icons](https://github.com/user-attachments/assets/1b52957c-c177-4080-ac58-1cdcfd868747)
   
 
-Now extract the ipa you downloaded earlier by renaming it from .ipa to .zip, then go into the extracted "Payload" Folder and if on macOS: Right Click the X.app and Choose "Show Package Contents", on Windows and Linux just double Click on the X.app Folder, then just drag the Contents of the Patches Folder into the .app (so the Assets.car, en.lproj, ...), choose "Replace" when asked if you want to replace the existing files.
+Now, extract the ipa you downloaded earlier by renaming it from .IPA to .ZIP, then go into the extracted "Payload" Folder and 
+
+**If on macOS:** Right Click the X.app and Choose "Show Package Contents"
+
+**If on Windows and Linux:** Just double Click on the X.app Folder
+
+Next, drag the Contents of the Patches Folder into the .app (so the Assets.car, en.lproj, ...), choose "Replace" when asked if you want to replace the existing files.
+
+<img width="516" alt="Screenshot 2025-01-12 at 14 55 28" src="https://github.com/user-attachments/assets/682c6519-16b8-4471-a9bb-0e5d7d80245d" />
+
 
 ## 3. Installing the app
 
-Now we have to create a new ipa using the Patched Twitter App we just made, to do that, make a new Folder called "Payload" and drag the X.app in, then Compress it into a zip file and rename it to "something.ipa" where something can be any name you like, after doing that use a tool like [Sideloadly](https://sideloadly.io) or [AltStore Classic](https://altstore.io) to install the ipa!
+Now we have to create a new ipa using the Patched Twitter App we just made, to do that, make a new Folder called "Payload" and drag the X.app in, then Compress it into a ZIP file and rename it to "something.IPA" where something can be any name you like, after doing that the app is ready to be installed! 
+> [!TIP]
+> You can use a tool like [Sideloadly](https://sideloadly.io) or [AltStore Classic](https://altstore.io) to install the IPA
 
 Profit!
