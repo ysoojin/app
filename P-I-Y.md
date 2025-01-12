@@ -18,14 +18,27 @@ git clone https://github.com/actuallyaridan/NeoFreeBird.git
 
 Next, decide if you'd like the older icons or the newer ones. Pick the folder containing the icons you prefer. You can see a comparison of the new and old icons below if you're unsure which to pick:
 
-<html>
-    <div>
-      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 60vh;">
-      <img alt="" src="https://github.com/timi2506/images-for-website/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20-%202025-01-09%20at%2013.12.17.png?raw=true" style="height: 60vh;">
-    </div>
-</html>
+![Old vs. New Icons](https://github.com/user-attachments/assets/1b52957c-c177-4080-ac58-1cdcfd868747)
   
 
-  
+Now, extract the ipa you downloaded earlier by renaming it from .IPA to .ZIP, then go into the extracted "Payload" Folder and 
+
+**If on macOS:** Right Click the Twitter.app and Choose "Show Package Contents"
+
+**If on Windows and Linux:** Just double Click on the X.app Folder
+
+Next, drag the Contents of the Patches Folder into the .app (so the Assets.car, en.lproj, ...), choose "Replace" when asked if you want to replace the existing files.
+
+<img width="516" alt="Screenshot 2025-01-12 at 14 55 28" src="https://github.com/user-attachments/assets/682c6519-16b8-4471-a9bb-0e5d7d80245d" />
+
 
 ## 3. Installing the app
+
+Now we have to create a new ipa using the Patched Twitter App we just made, to do that, make a new Folder called "Payload" and drag the X.app in, then Compress it into a ZIP file and rename it to "something.IPA" where something can be any name you like.
+
+Now, the app is ready to be installed! 
+
+> [!TIP]
+> You can use a tool like [Sideloadly](https://sideloadly.io) or [AltStore Classic](https://altstore.io) to install the IPA
+
+### Profit!
