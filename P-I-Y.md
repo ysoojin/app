@@ -6,7 +6,7 @@ Get a decrypted ipa of the latest Version by either decrypting it yourself from 
 
 ## 2. Modifying the app
 Now comes the fun part! Clone the repo using 
-```python
+```ruby
 git clone https://github.com/actuallyaridan/NeoFreeBird.git
 ```
 
