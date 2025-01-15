@@ -4,7 +4,7 @@ NeoFreeBird is a modified version of a modern Twitter (also known as X) app with
 NeoFreeBird differs from older Twitter app versions as it uses a more recent Twitter app in order to keep features working for potential API changes and similar along with keeping optimizations for newer devices.
 
 > [!NOTE]  
-> <b>There are some remaints</b><br>You may still see some X branding and references to posts/posting, especially in web based stuff like Community Notes.
+> <b>There are some remaints</b><br>You may still see some X branding and references to posts/posting, especially in web based stuff like Community Notes. We try our best to get rid of most of them.
 
 > [!TIP]
 > <b>Would you rather add the patches yourself instead of using the IPA?</b> <br>
