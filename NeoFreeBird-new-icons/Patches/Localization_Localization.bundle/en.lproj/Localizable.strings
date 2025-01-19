@@ -4361,7 +4361,7 @@ This text gives the short description for a type of conversation in which only a
 "
 
 /* Button text displayed below a tweet. Tapping it will cause a user to be banned from a Community */
-"COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
+COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Ban";
 
 
 
