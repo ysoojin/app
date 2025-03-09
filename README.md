@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/schlagmichdoch/PairDrop">
-    <img src="branding/icon.jpg" alt="NeoFreeBird"  width="150" height="150">
+    <img src="/Branding/Icon.jpg" alt="NeoFreeBird"  width="150" height="150">
   </a>
  
   # Twitter, like it should be
