@@ -20,7 +20,7 @@ NeoFreeBird is a modified version of a modern Twitter app with various changes s
 <img src="docs/pairdrop_screenshot_mobile.gif" alt="Screenshot GIF showing PairDrop in use" style="width: 300px">
 
 ## Why NeoFreeBird?
-NeoFreeBird differs from older Twitter apps or other branding reverts, as it constanrly updates its Twitter app in order to keep features working for potential API changes and similar, along with keeping optimizations for newer devices
+NeoFreeBird differs from older Twitter apps or other branding reverts, as it constantly updates its Twitter app in order to keep features working for potential API changes and similar, along with keeping optimizations for newer devices
 
 
 > [!NOTE]  
