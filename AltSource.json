@@ -1,1 +1,37 @@
-{"apps":[{"beta":true,"bundleIdentifier":"com.neofreebird.newicons","developerName":"actuallyaridan & timi2506","downloadURL":"https://github.com/actuallyaridan/NeoFreeBird/releases/download/0.2/NeoFreeBird-0.2-Twitter-10.76-new-icons.ipa","iconURL":"https://github.com/actuallyaridan/NeoFreeBird/blob/main/Branding/Icon.jpg?raw=true","localizedDescription":"NeoFreeBird is a modified version of a modern Twitter app with various changes such as branding reverts and removal of unnecessary features along with BetterBH for blocking ads, getting various Twitter Blue features for free and being able to customize Twitter in various ways like picking your own font or similar.\n\nNeoFreeBird differs from older Twitter app versions as it uses a more recent Twitter app in order to keep features working for potential API changes and similar along with keeping optimizations for newer devices.","name":"NeoFreeBird","screenshotURLs":["https://github.com/actuallyaridan/NeoFreeBird/blob/main/Branding/new-Screenshots/1.png?raw=true"],"size":118327773781,"subtitle":"NeoFreeBird New Icons","tintColor":"1DA1F2","version":"10.76b2","versionDate":"2025-01-16","versionDescription":"NeoFreeBird is a modified version of a modern Twitter app with various changes such as branding reverts and removal of unnecessary features along with BetterBH for blocking ads, getting various Twitter Blue features for free and being able to customize Twitter in various ways like picking your own font or similar.\n\nNeoFreeBird differs from older Twitter app versions as it uses a more recent Twitter app in order to keep features working for potential API changes and similar along with keeping optimizations for newer devices."}],"identifier":"com.neofreebird.altsource","name":"NeoFreeBird","news":[],"userInfo":{}}
+{
+    "name": "NeoFreeBird",
+    "subtitle": "The official AltSource for NeoFreeBird",
+    "website": "https://github.com/actuallyaridan/NeoFreeBird",
+    "featuredApps": [
+      "com.neofreebird.regular"
+    ],
+    "apps": [
+      {
+        "name": "NeoFreeBird",
+        "bundleIdentifier": "com.neofreebird.regular",
+        "developerName": "actuallyaridan, timi2506, nyaathea",
+        "subtitle": "NeoFreeBird Regular",
+        "localizedDescription": "A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.",
+        "iconURL": "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/Icon.jpg",
+        "tintColor": "#1DA1F2",
+        "category": "social",
+        "screenshots": [
+          "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/branding/screenshots/IMG_9189.png"
+        ],
+        "versions": [
+          {
+            "version": "1.0",
+            "buildVersion": "10.94",
+            "date": "2025-05-04",
+            "localizedDescription": "A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.",
+            "downloadURL": "https://github.com/actuallyaridan/NeoFreeBird/releases/download/1.0/NeoFreeBird-1.0-Twitter-10.94-rev3.ipa",
+            "size": 151059429
+          }
+        ],
+        "appPermissions": {},
+        "patreon": {}
+      }
+    ],
+    "news": []
+  }
+  
