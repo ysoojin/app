@@ -1,3 +1,566 @@
+"TIMELINE_SORT_BY_POPULAR_MONTH" = "Populärt – denna månad";
+"TIMELINE_SORT_BY_POPULAR_WEEK" = "Populärt – denna vecka";
+"TIMELINE_SORT_BY_POPULAR_YEAR" = "Populärt – detta år";
+"TIMELINE_SORT_CONFIGURATION_SORT" = "Sortera";
+"TIMELINE_SORT_CONFIGURATION_SORT_BY_POPULARITY" = "Sortera efter popularitet";
+"TIMELINE_SORT_CONFIGURATION_TITLE" = "Justera flöde";
+"TIMELINE_SORT_CONFIGURATION_VIEW" = "Visa";
+"TIMELINE_VIEW_MY_POSTS" = "Mina tweets";
+"TIMELINE_VIEW_MY_REPLIES" = "Mina svar";
+"UPLOAD_STATUS_BAR_LABEL_MULTIPLE" = "Skickar %@ tweets…";
+"UPLOAD_STATUS_BAR_LABEL_SINGLE" = "Skickar tweet…";
+"XCHAT" = "Chat";
+"XCHAT_NOT_AVAILABLE_TOAST_TITLE" = "Denna funktion är inte tillgänglig";
+"X_SEARCH_MORE_RESULTS" = "+%1$@ till";
+"X_SEARCH_RESULTS" = "Sökresultat";
+"X_SEARCH_SUBTITLE" = "Visar tankar";
+"X_SEARCH_THINKING" = "Tänker…";
+"X_SEARCH_TITLE_DONE" = "Sökningen tog %1$@ sekunder";
+"X_SEARCH_TITLE_DONE_V2" = "Forskade i %1$@ sekunder";
+"X_SEARCH_TITLE_HISTORY" = "Sök";
+"X_SEARCH_TITLE_HISTORY_V2" = "Forskning";
+"X_SEARCH_TITLE_SEARCHING" = "Söker i %1$@ sekunder";
+"X_SEARCH_TITLE_SEARCHING_V2" = "Forskar i %1$@ sekunder";
+"X_THINK_SUBTITLE" = "Tryck för att läsa mina tankar";
+"X_THINK_TITLE_DONE" = "Tänkte i %1$@ sekunder";
+"X_THINK_TITLE_HISTORY" = "Tankar";
+"X_THINK_TITLE_THINKING" = "Tänker i %1$@ sekunder";
+"QUICK_PROMOTE_PROMPT_MESSAGE_PROMOTE_POST" = "Marknadsför din tweet nu och nå användare som kan vara intresserade av ditt innehåll.";
+"QUICK_PROMOTE_PROMPT_MESSAGE_REACH_MORE_THAN_THOUSANDS" = "Nå över 100 000 användare idag som troligen gillar ditt innehåll.";
+"QUICK_PROMOTE_PROMPT_MESSAGE_REACH_THOUSANDS" = "Nå tusentals användare idag som troligen gillar ditt innehåll.";
+"QUICK_PROMOTE_PROMPT_PRIMARY_BUTTON_TITLE_BOOST" = "Öka synligheten nu";
+"QUICK_PROMOTE_PROMPT_PRIMARY_BUTTON_TITLE_PROMOTE" = "Marknadsför nu";
+"QUICK_PROMOTE_PROMPT_SECONDARY_BUTTON_TITLE" = "Kanske senare";
+"QUICK_PROMOTE_PROMPT_TITLE_BOOST_POST" = "Öka din tweets synlighet?";
+"QUICK_PROMOTE_PROMPT_TITLE_REACH_THOUSANDS" = "Nå tusentals fler";
+"QUICK_PROMOTE_PROMPT_TITLE_TRY_BOOSTING_POST" = "Testa att boosta denna tweet!";
+"QUICK_PROMOTE_PROMPT_TOOLTIP_CONVERSATION_STARTER" = "Gör din tweet till en samtalsstartare";
+"QUICK_PROMOTE_PROMPT_TOOLTIP_INCREASE_ENGAGEMENT" = "Öka engagemanget direkt";
+"QUICK_PROMOTE_PROMPT_TOOLTIP_ONE_TAP" = "Ett tryck – nå 100 000+ användare";
+"QUICK_PROMOTE_PROMPT_TOOLTIP_REACH_THOUSANDS" = "Nå upp till 100 000 fler nu";
+"NOTE_TWEET_MORE" = "mer";
+
+
+"BUSINESS_TAB_LABEL" = "Företag";
+"BUSINESS_TAB_PROMO_1_DAY_LABEL" = "1 dag kvar";
+"BUSINESS_TAB_PROMO_1_WEEK_LABEL" = "1 vecka kvar";
+"BUSINESS_TAB_PROMO_30_PERCENT_LABEL" = "30 % rabatt";
+"COMMUNITY_REVIEW_TWEET_BAN_USER_ACTION" = "Blockera";
+"CONFIRMATION_ALERT_GENERAL_TITLE" = "Är du säker?";
+"ERROR_COULD_NOT_VERIFY_DEVICE" = "Försök igen. Kunde inte verifiera din enhet.";
+"FOLLOW_EACH_OTHER_ACTION_LABEL" = "Ni följer varandra";
+"LIKE_INLINE_TIP_VARIANT_1" = "Vi visar fler liknande.";
+"PARODY_COMMENTARY_FAN_ACCOUNT_COMMENTARY_OPTION_TEXT" = "Kommentar";
+"PARODY_COMMENTARY_FAN_ACCOUNT_COMMENTARY_PROFILE_LABEL_TEXT" = "Kommentarkonto";
+"PARODY_COMMENTARY_FAN_ACCOUNT_DISABLE_CONFIRMATION_ALERT_TITLE_2" = "Ta bort profiletikett?";
+"PARODY_COMMENTARY_FAN_ACCOUNT_FAN_OPTION_TEXT" = "Fan";
+"PARODY_COMMENTARY_FAN_ACCOUNT_FAN_PROFILE_LABEL_TEXT" = "Fankonto";
+"PARODY_COMMENTARY_FAN_ACCOUNT_LABEL_UPDATE_COOLDOWN_WARNING_MESSAGE" = "När etiketten ändrats kan du inte ändra den igen på 48 timmar.";
+"PARODY_COMMENTARY_FAN_ACCOUNT_NONE_OPTION_TEXT" = "Ingen";
+"PARODY_COMMENTARY_FAN_ACCOUNT_PARODY_OPTION_TEXT" = "Parodi";
+"POST_SWIPE_NOT_RELEVANT_LABEL" = "Inte relevant";
+"POST_SWIPE_RELEVANT_LABEL" = "Relevant";
+"QR_MY_CODE" = "Min kod";
+"QR_SCAN_CODE" = "Skanna kod";
+"QUICK_PROMOTE_BOOSTED_LABEL" = "Boostat";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_BOOK_NOW" = "Boka nu";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_BUY_TICKETS" = "Köp biljetter";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_CONTACT_US" = "Kontakta oss";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_DONATE" = "Donera";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_DOWNLOAD" = "Ladda ner";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_GET_OFFER" = "Få erbjudande";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_LEARN_MORE" = "Läs mer";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_SHOP_NOW" = "Handla nu";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_SIGN_UP" = "Registrera dig";
+"REVENUE_UNIFIED_WEB_CARD_CTA_BUTTON_TITLE_WATCH_NOW" = "Titta nu";
+"SHARE_SHEET_SEND_BUTTON_SEPARATELY_TITLE" = "Skicka separat";
+"SHARE_SHEET_SEND_BUTTON_TITLE" = "Skicka";
+"SHARE_SHEET_TITLE" = "Dela Tweet";
+"SHARE_SHEET_TOAST_PLEASE_TRY_AGAIN_SUBTITLE" = "Försök igen senare";
+"SHARE_SHEET_TOAST_POST_SHARED_FAILURE_TITLE" = "Kunde inte dela Tweet";
+"SHARE_SHEET_TOAST_POST_SHARED_MULTIPLE_TITLE" = "Tweet delad individuellt";
+"SHARE_SHEET_TOAST_POST_SHARED_SINGLE_GROUP_TITLE" = "Tweet delad med grupp";
+"SHARE_SHEET_TOAST_POST_SHARED_SINGLE_NAME_TITLE" = "Tweet delad med %@";
+"SHARE_SHEET_TOAST_POST_SHARED_SINGLE_TITLE" = "Tweet delad";
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_FAILURE_TITLE" = "Kunde inte dela innehåll";
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_MULTIPLE_TITLE" = "Innehåll delat individuellt";
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_GROUP_TITLE" = "Innehåll delat med grupp";
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_NAME_TITLE" = "Innehåll delat med %@";
+"SHARE_SHEET_TOAST_SHAREABLE_SHARED_SINGLE_TITLE" = "Innehåll delat";
+"TIMELINE_SORT_BY_NEW" = "Nytt";
+"TIMELINE_SORT_BY_POPULAR" = "Populärt";
+"TIMELINE_SORT_BY_POPULAR_ALL" = "Populärt – alla tider";
+"TIMELINE_SORT_BY_POPULAR_DAY" = "Populärt – idag";
+
+
+"DM_PIN_TOAST_REMINDER_TITLE" = "PIN-verifiering klar";
+"DM_REACTIONS_EMPTY" = "Ingen har reagerat på detta meddelande.";
+"DM_SETTINGS_TITLE" = "Meddelandeinställningar";
+"COMMUNITY_SPOTLIGHT_COMMUNITY_DETAIL_ACTION_TITLE" = "Lyft fram Community på din profil";
+"COMMUNITY_UNABLE_TO_TWEET_USER_IS_BANNED_MESSAGE" = "Kontakta Community-moderatorerna för att återaktiveras";
+"COMMUNITY_UNABLE_TO_TWEET_USER_IS_BANNED_TITLE" = "Du har tagits bort från denna Community";
+"GROK_CARD_FINANCE_CHART_LABEL_TIME" = "Tid";
+"GROK_CARD_FINANCE_CHART_LABEL_VALUE" = "Värde";
+"GROK_CARD_UPDATED_AT_LABEL" = "Uppdaterad %@";
+"GROK_CLOSE" = "Stäng";
+"GROK_CUSTOMIZATION_CLEAR" = "Rensa";
+"GROK_CUSTOMIZATION_ENABLED" = "Aktivera för alla framtida chattar";
+"GROK_CUSTOMIZATION_HEADER" = "Anpassa Grok";
+"GROK_CUSTOMIZATION_HOW_TO_RESPOND" = "Hur vill du att Grok ska svara?";
+"GROK_CUSTOMIZATION_HOW_TO_RESPOND_PLACEHOLDER" = "t.ex: Var kort och koncis. Var hård om jag gör fel.";
+"GROK_CUSTOMIZATION_WHAT_WOULD_YOU_LIKE" = "Vad vill du att Grok ska veta om dig?";
+"GROK_CUSTOMIZATION_WHAT_WOULD_YOU_LIKE_PLACEHOLDER" = "t.ex: Min tekniska nivå i [programmering/specificerat område] är [nybörjare, medel, avancerad]. Anpassa förklaringar därefter.";
+"GROK_EDIT_IMAGE_INPUT_BUTTON" = "Redigera bild";
+"GROK_FINANCE_CARD_COMPARISON_STOCK_TITLE" = "Jämför";
+"GROK_FULLSCREEN_IMAGE_ACTION_EDIT" = "Redigera";
+"GROK_FULLSCREEN_IMAGE_ACTION_POST" = "Tweeta";
+"GROK_FULLSCREEN_IMAGE_ACTION_SAVE" = "Spara";
+"GROK_HOME_DOWNLOAD_BANNER_ACTION" = "HÄMTA";
+"GROK_HOME_DOWNLOAD_BANNER_DESCRIPTION" = "Få tillgång till avancerade Grok-funktioner";
+"GROK_HOME_DOWNLOAD_BANNER_TITLE" = "Ladda ner iOS-appen";
+"GROK_IMAGE_ACTION_EDIT" = "Redigera bild";
+"GROK_INPUT_ATTACH_BUTTON" = "Bifoga";
+"GROK_INPUT_DISABLED_TOAST_MESSAGE" = "Denna funktion är inte tillgänglig just nu";
+"GROK_INPUT_DISABLED_TOAST_TITLE" = "Servrarna jobbar hårt just nu";
+"GROK_LIVE" = "Live";
+"GROK_PERSONALITY_MENU_DEFAULT" = "Standard";
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_COPY" = "Ditt konto kan skicka upp till %1$@ meddelanden varje %2$@. Försök igen senare eller byt Grok-modell.";
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_COPY_DAY" = "Ditt konto kan skicka upp till %1$@ meddelanden per dag. Försök igen senare eller byt Grok-modell.";
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_COPY_HOUR" = "Ditt konto kan skicka upp till %1$@ meddelanden per timme. Försök igen senare eller byt Grok-modell.";
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_TITLE" = "Du har nått din nuvarande gräns för %1$@";
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_PLUS_TITLE_FALLBACK" = "Du har nått din nuvarande meddelandegräns";
+"GROK_SHARE_DEEPSEARCH_MODE_LABEL" = "DeepSearch av Grok";
+"GROK_SHARE_DEEPSEARCH_MODE_POST" = "%d Tweet";
+"GROK_SHARE_DEEPSEARCH_MODE_POSTS" = "%d tweets";
+"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULT" = "%d webbsida";
+"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULTS" = "%d webbsidor";
+"GROK_SHARE_DEEPSEARCH_MODE_WEB_RESULTS_AND_POSTS" = "%d webbsidor och tweets";
+"GROK_SOCCER_CARD_DISCLAIMER" = "Grok stöder för närvarande data från La Liga och Premier League.";
+"GROK_SUMMARY_TITLE_LABEL" = "Sammanfattning av Grok";
+"GROK_UPLOAD_OPTION_CAMERA" = "Kamera";
+"GROK_UPLOAD_OPTION_FILES" = "Filer";
+"GROK_UPLOAD_OPTION_PHOTOS" = "Bilder";
+"GROK_UPLOAD_OPTION_PHOTO_FROM_FILES" = "Bild från filer";
+"US_STATE_DC" = "District of Columbia";
+"ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_REPOST_BUTTON" = "Retweeta";
+
+
+"DM_MESSAGE_ATTACHMENT_GIF_ACCESSIBILITY_LABEL" = "Gif";
+"DM_MESSAGE_ATTACHMENT_TAP_TO_OPEN_ACCESSIBILITY_HINT" = "Tryck för att öppna";
+"DM_MESSAGE_ATTACHMENT_TAP_TO_VIEW_ACCESSIBILITY_HINT" = "Tryck för att visa";
+"DM_MESSAGE_ATTACHMENT_VIDEO_ACCESSIBILITY_LABEL" = "Video";
+"DM_MESSAGE_DETAILS_SEEN_BY_NO_ONE_TITLE" = "Detta meddelande har inte setts än.";
+"DM_MESSAGE_DETAILS_SEEN_BY_TITLE" = "Sett av";
+"DM_MESSAGE_DETAILS_SENT_BY_TITLE" = "Skickat av";
+"DM_MESSAGE_REPLY_SUBTITLE_UNKNOWN" = "Bilaga";
+"DM_MESSAGE_SEND_ERROR_FAILED_TO_SEND" = "Meddelandet kunde inte skickas";
+"DM_MESSAGE_TEXT_RECEIVED_REPLY_WITH_SENDER_ACCESSIBILITY_LABEL" = "%1$@ svarar till %2$@";
+"DM_MESSAGE_TEXT_RECEIVED_REPLY_WITH_SENDER_AND_TEXT_ACCESSIBILITY_LABEL" = "%1$@ svarar till %2$@: %3$@";
+"DM_MESSAGE_TEXT_RECEIVED_WITH_SENDER_ACCESSIBILITY_LABEL" = "%1$@: %2$@";
+"DM_MESSAGE_TEXT_SENT_REPLY_WITH_SENDER_ACCESSIBILITY_LABEL" = "Du svarar till %@";
+"DM_MESSAGE_TEXT_SENT_REPLY_WITH_SENDER_AND_TEXT_ACCESSIBILITY_LABEL" = "Du svarar till %1$@: %2$@";
+"DM_MESSAGE_TEXT_SENT_WITH_SENDER_ACCESSIBILITY_LABEL" = "Du: %@";
+"DM_NEW_CONVERSATION_ACTION_SELECT_USER_ERROR_NO_PIN_MESSAGE" = "Det här kontot måste ställa in en PIN-kod innan du kan skicka meddelanden.";
+"DM_NEW_CONVERSATION_ACTION_SELECT_USER_ERROR_TITLE" = "Tyvärr! Du kan inte skicka meddelanden till det här kontot";
+"DM_PIN_ENTRY_BUTTON_TITLE_EDUCATION_NO" = "Nej, avbryt";
+"DM_PIN_ENTRY_BUTTON_TITLE_EDUCATION_YES" = "Ja, återställ PIN";
+"DM_PIN_ENTRY_BUTTON_TITLE_ONBOARDING" = "Fortsätt";
+"DM_PIN_ENTRY_BUTTON_TITLE_TWO_FA" = "Fortsätt";
+"DM_PIN_ENTRY_ERROR_JUICEBOX_INVALID_PIN_ATTEMPTS_REMAINING" = "PIN-koden var fel. Efter %@ fler felaktiga försök låses dina meddelanden.";
+"DM_PIN_ENTRY_ERROR_JUICEBOX_INVALID_PIN_LOCKED_OUT" = "PIN-koden var fel. Du har inga försök kvar. Tryck på ”Glömt PIN” för att fortsätta.";
+"DM_PIN_ENTRY_ERROR_JUICEBOX_STORAGE_FAILED" = "Lagringen misslyckades. Försök igen senare.";
+"DM_PIN_ENTRY_FORGOT_PIN_BUTTON_TITLE" = "Glömt PIN";
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_ENCRYPTION_SUBTITLE" = "Meddelanden är end-to-end-krypterade på alla dina enheter.";
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_ENCRYPTION_TITLE" = "End-to-end-kryptering";
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PASSCODE_SUBTITLE" = "För att skydda dina meddelanden behöver du ställa in en fyrsiffrig kod.";
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PASSCODE_TITLE" = "Ställ in en kod";
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PRIVACY_SUBTITLE" = "Ingen, inte ens Twitter, kan läsa dina meddelanden.";
+"DM_PIN_ENTRY_ONBOARDING_FEATURE_PRIVACY_TITLE" = "Maxad sekretess";
+"DM_PIN_ENTRY_SUBTITLE_CREATE" = "Ställ in en PIN-kod för att skydda dina meddelanden. Vi frågar ibland efter den så att du kommer ihåg.";
+"DM_PIN_ENTRY_SUBTITLE_EDUCATION" = "Du kommer inte längre kunna se dina gamla meddelanden.";
+"DM_PIN_ENTRY_SUBTITLE_FORGOT_CREATE" = "Kom ihåg den — vi kommer att be dig bekräfta ibland.";
+"DM_PIN_ENTRY_SUBTITLE_REMINDER" = "För att du ska komma ihåg din PIN ber vi dig ange den då och då. Det sker mer sällan med tiden.";
+"DM_PIN_ENTRY_SUBTITLE_TWO_FA" = "Vi behöver verifiera dig innan du kan skapa en ny PIN-kod.";
+"DM_PIN_ENTRY_TITLE_CREATE" = "Skapa en fyrsiffrig PIN-kod";
+"DM_PIN_ENTRY_TITLE_EDUCATION" = "Är du säker på att du vill återställa din PIN?";
+"DM_PIN_ENTRY_TITLE_FORGOT_CREATE" = "Skapa ny PIN";
+"DM_PIN_ENTRY_TITLE_FORGOT_CREATE_CONFIRM" = "Bekräfta din nya PIN";
+"DM_PIN_ENTRY_TITLE_ONBOARDING" = "Meddelanden är nu helt krypterade";
+"DM_PIN_ENTRY_TITLE_RECOVER_REMINDER_FOUR_DIGIT" = "Ange din fyrsiffriga PIN";
+"DM_PIN_ENTRY_TITLE_TWO_FA" = "Tvåfaktorsautentisering";
+"DM_PIN_REMINDER_BUTTON_TITLE" = "Ange PIN";
+"DM_PIN_REMINDER_SUBTITLE" = "Ange din fyrsiffriga PIN så håller vi det säkert och ser till att du minns den.";
+"DM_PIN_REMINDER_TITLE" = "PIN-verifiering";
+"DM_PIN_TOAST_CREATE_TITLE" = "PIN skapad";
+"DM_PIN_TOAST_FORGOT_CREATE_TITLE" = "Ny PIN skapad";
+"DM_PIN_TOAST_FORGOT_RECOVER_TITLE" = "PIN ändrad";
+"DM_PIN_TOAST_RECOVER_TITLE" = "Inkorgen upplåst";
+
+
+"DM_CONVERSATION_VANISHING_MODE_DURATION_EIGHT_HOURS_TITLE" = "8 timmar";
+"DM_CONVERSATION_VANISHING_MODE_DURATION_FIVE_MINUTES_TITLE" = "5 minuter";
+"DM_CONVERSATION_VANISHING_MODE_DURATION_FOUR_WEEKS_TITLE" = "4 veckor";
+"DM_CONVERSATION_VANISHING_MODE_DURATION_OFF_TITLE" = "Av";
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ONE_DAY_TITLE" = "1 dag";
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ONE_HOUR_TITLE" = "1 timme";
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ONE_WEEK_TITLE" = "1 vecka";
+"DM_EARLY_ACCESS_BADGE_TITLE" = "Tidigt tillträde";
+"DM_EDIT_CONVERSATION_ACTION_ADD_GROUP_NAME_TITLE" = "Lägg till gruppnamn";
+"DM_EDIT_CONVERSATION_ACTION_CHANGE_PHOTO_TITLE" = "Byt bild";
+"DM_EDIT_CONVERSATION_ACTION_EDIT_GROUP_NAME_TITLE" = "Redigera gruppnamn";
+"DM_EDIT_CONVERSATION_ACTION_REMOVE_CURRENT_PHOTO_TITLE" = "Ta bort aktuell bild";
+"DM_EDIT_CONVERSATION_ACTION_SELECT_NEW_PHOTO_TITLE" = "Välj ny bild";
+"DM_EDIT_CONVERSATION_NAME_ADD_NAME_TITLE" = "Lägg till namn";
+"DM_EDIT_CONVERSATION_NAME_EDIT_NAME_TITLE" = "Redigera namn";
+"DM_EDIT_CONVERSATION_NAME_EXCEEDS_MAX_LENGTH_ERROR_TITLE" = "För långt!";
+"DM_EDIT_CONVERSATION_TITLE" = "Redigera grupp";
+"DM_EMPTY_CONVERSATION_SUBTITLE" = "Prova att skicka ett meddelande!";
+"DM_EMPTY_CONVERSATION_TITLE" = "Konversationen med %@ verkar ganska tom.";
+"DM_ERROR_VIEW_BUTTON_TITLE" = "Försök igen";
+"DM_ERROR_VIEW_SUBTITLE" = "Tryck på Försök igen eller starta om appen.";
+"DM_ERROR_VIEW_TITLE" = "Hoppsan! Något gick fel, försök igen.";
+"DM_GROUP_YOU" = "Du";
+"DM_MANAGE_CONVERSATION_ACTION_EDIT_TITLE" = "Redigera";
+"DM_MANAGE_CONVERSATION_ACTION_UPDATE_GROUP_ERROR_TITLE" = "Kunde inte uppdatera gruppen";
+"DM_MANAGE_CONVERSATION_SECTION_PEOPLE_TITLE" = "Personer";
+"DM_MESSAGE_ACTION_ADD_REACTION_ERROR_TITLE" = "Kunde inte lägga till reaktion";
+"DM_MESSAGE_ACTION_ADD_REACTION_TITLE" = "Lägg till reaktion";
+"DM_MESSAGE_ACTION_CANCEL_ERROR_TITLE" = "Kunde inte avbryta meddelande";
+"DM_MESSAGE_ACTION_CANCEL_TITLE" = "Avbryt meddelande";
+"DM_MESSAGE_ACTION_COPY_ADDRESS_TITLE" = "Kopiera adress";
+"DM_MESSAGE_ACTION_COPY_EMAIL_TITLE" = "Kopiera e-post";
+"DM_MESSAGE_ACTION_COPY_HASHTAG_TITLE" = "Kopiera hashtag";
+"DM_MESSAGE_ACTION_COPY_LINK_TITLE" = "Kopiera länk";
+"DM_MESSAGE_ACTION_COPY_PHONE_TITLE" = "Kopiera telefonnummer";
+"DM_MESSAGE_ACTION_COPY_STOCK_TITLE" = "Kopiera aktie";
+"DM_MESSAGE_ACTION_COPY_USERNAME_TITLE" = "Kopiera användarnamn";
+"DM_MESSAGE_ACTION_DELETE_ERROR_TITLE" = "Kunde inte radera meddelandet";
+"DM_MESSAGE_ACTION_EDIT_ERROR_TITLE" = "Kunde inte redigera meddelandet";
+"DM_MESSAGE_ACTION_OPEN_ADDRESS_APPLE_MAPS_TITLE" = "Öppna i Kartor";
+"DM_MESSAGE_ACTION_OPEN_EMAIL_TITLE" = "E-post";
+"DM_MESSAGE_ACTION_OPEN_GENERIC_TITLE" = "Öppna";
+"DM_MESSAGE_ACTION_OPEN_PHONE_NUMBER_TITLE" = "Ring";
+"DM_MESSAGE_ACTION_REMOVE_REACTION_ERROR_TITLE" = "Kunde inte ta bort reaktionen";
+"DM_MESSAGE_ACTION_RETRY_TITLE" = "Försök igen";
+"DM_MESSAGE_ACTION_SHARE_LINK_TITLE" = "Dela länk";
+"DM_MESSAGE_ACTION_SHARE_TITLE" = "Dela";
+"DM_MESSAGE_ATTACHMENT_ACTION_TAP_TO_LOAD_TITLE" = "Tryck för att ladda";
+"DM_MESSAGE_ATTACHMENT_ERROR_LOADING_TITLE" = "Kunde inte ladda filen. Försök igen.";
+"DM_MESSAGE_ATTACHMENT_FILENAME_FALLBACK" = "Bilaga";
+
+
+"PINNED_TWEET_PIN_FANOUT_DURATION_MESSAGE" = "Du har nyligen fäst en Tweet, så den här kommer inte att lyftas i dina följares 'För dig'-flöde. Du kan lyfta igen om %@.";
+"PLAYER_CONTROL_BAR_SKIP_TO_LIVE" = "Hoppa till live";
+"PROFILE_UPGRADE_UPSELL_BODY_LABEL" = "Bli verifierad för bättre synlighet, statistik, annonsfritt läge och mer. Uppgradera din profil nu.";
+"PROFILE_UPGRADE_UPSELL_BOOST_INFLUENCE_TITLE_VARIANT" = "Få mer genomslag med verifiering";
+"PROFILE_UPGRADE_UPSELL_NO_VERIFICATION_TITLE_VARIANT" = "Du är inte verifierad än";
+"PROFILE_UPGRADE_UPSELL_UNLOCK_FEATURES_TITLE_VARIANT" = "Lås upp VIP-funktioner: verifiera ditt konto";
+"REACT_WITH_VIDEO" = "Reagera med video";
+"SECURITY_SETTINGS_PASSKEY_DESCRIPTION_WITH_LEARN_MORE" = "Passnycklar ger extra skydd och kan kopplas till biometrisk data. %@";
+"SECURITY_SETTINGS_PASSKEY_MANAGEMENT_SCREEN_DESCRIPTION" = "Här är dina passnycklar på alla dina enheter";
+"SELECT_A_POST_FROM_BOOKMARKS_LABEL" = "Välj en Tweet från bokmärken";
+"SETTINGS_GROK_MEMORY_DETAILS_FORMAT" = "Tillåt Grok att minnas detaljer från tidigare konversationer. Du kan ta bort enskilda konversationer när som helst. %@";
+"SETTINGS_GROK_MEMORY_TITLE" = "Tillåt Grok att minnas din samtalshistorik";
+"SUBSCRIPTION_PREMIUM_X_TEXT" = "Twitter Premium";
+"TWEET_FEEDBACK_NOT_RELEVANT_TOAST" = "Tack! Vi visar färre liknande tweets";
+"TWEET_FEEDBACK_RELEVANT_TOAST" = "Tack! Vi visar fler liknande tweets";
+"VIDEO_SETTINGS_AIRPLAY_AND_BLUETOOTH" = "Airplay & Bluetooth";
+"SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_TO_DOWNLOAD_UPSELL_SUBTITLE" = "Denna video kan inte laddas ner, men du kan spara den för offline-visning.";
+"SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_TO_DOWNLOAD_UPSELL_TITLE" = "Spara video offline?";
+"SUBSCRIPTION_UPSELL_REPLY_BOOST_MESSAGE" = "Prenumerera på Premium för att lyfta dina svar";
+"SUBSCRIPTION_UPSELL_REPLY_BOOST_PURCHASE_LABEL" = "Lyft mitt svar";
+"SUBSCRIPTION_UPSELL_REPLY_BOOST_TITLE" = "Vill du att fler ser ditt svar?";
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_ACTION" = "Radera";
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_ALERT_TITLE" = "Radera konversation?";
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_ERROR_TITLE" = "Kunde inte radera konversationen";
+"DM_CONVERSATION_ACTION_DELETE_CONVERSATION_TITLE" = "Radera konversation";
+"DM_CONVERSATION_ACTION_DELETE_LEAVE_CONVERSATION_ALERT_MESSAGE" = "Den här konversationen tas bort från din inkorg. Andra deltagare kan fortfarande se den.";
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_ALERT_ACTION" = "Lämna";
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_ALERT_TITLE" = "Lämna konversation?";
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_ERROR_TITLE" = "Kunde inte lämna konversationen";
+"DM_CONVERSATION_ACTION_LEAVE_CONVERSATION_TITLE" = "Lämna konversation";
+"DM_CONVERSATION_ACTION_MARK_READ_TITLE" = "Markera som läst";
+"DM_CONVERSATION_ACTION_MARK_UNREAD_TITLE" = "Markera som oläst";
+"DM_CONVERSATION_ACTION_MUTE_TITLE" = "Tysta konversation";
+"DM_CONVERSATION_ACTION_UNMUTE_TITLE" = "Slå på ljud i konversation";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_1_USER" = "%@ togs bort";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_2_USERS" = "%1$@ och %2$@ togs bort";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_MANY_USERS" = "%1$@ och %2$@ andra togs bort";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_UNNAMED_REMOVED_YOU" = "Du togs bort från gruppen";
+"DM_CONVERSATION_INFORMATIONAL_PARTICIPANTS_YOU_LEFT" = "Du lämnade";
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_CAMERA_TITLE" = "Kamera";
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_FILES_TITLE" = "Filer";
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_GIFS_TITLE" = "GIF:ar";
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_ACTION_PHOTOS_TITLE" = "Bilder";
+"DM_CONVERSATION_MESSAGE_COMPOSER_ADD_ATTACHMENT_BUTTON_ACCESSIBILITY_LABEL" = "Lägg till bilaga";
+"DM_CONVERSATION_MESSAGE_COMPOSER_SEND_BUTTON_ACCESSIBILITY_LABEL" = "Skicka";
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_ACCESSIBILITY_LABEL" = "Skriv nytt meddelande";
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_REPLY_PLACEHOLDER" = "Svara";
+"DM_CONVERSATION_MESSAGE_COMPOSER_TEXT_START_MESSAGE_PLACEHOLDER" = "Starta ett meddelande";
+"DM_CONVERSATION_PARTICIPANT_ADMIN_LABEL" = "Admin";
+"DM_CONVERSATION_VANISHING_MODE_DURATION_ACCESSIBILITY_LABEL" = "%@ försvinnandeläge";
+
+
+"PAYMENTS_TRANSFER_REQUEST_ERROR_TITLE" = "Begäran misslyckades";
+"PAYMENTS_USER_FORMAT_PAY" = "Betala %@";
+"PAYMENTS_USER_FORMAT_PAY_OR_REQUEST" = "Betala eller begär från %@";
+"PAYMENTS_USER_FORMAT_REQUEST" = "Begär %@";
+"PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_MESSAGE" = "Denna åtgärd är tillfälligt pausad. Försök igen senare. Dina tidigare kopplade konton är fortfarande tillgängliga.";
+"PAYMENTS_VELOCITY_ERROR_ACCOUNT_LINKING_TITLE" = "För många försök att koppla konton";
+"PAYMENTS_VELOCITY_ERROR_DEPOSITS_MESSAGE" = "Denna åtgärd är tillfälligt pausad. Försök igen senare. Dina tidigare insättningar behandlas som vanligt.";
+"PAYMENTS_VELOCITY_ERROR_DEPOSITS_TITLE" = "För många insättningsförsök";
+"PAYMENTS_VELOCITY_ERROR_TRANSFERS_MESSAGE" = "Denna åtgärd är tillfälligt pausad. Försök igen senare. Dina tidigare överföringar behandlas som vanligt.";
+"PAYMENTS_VELOCITY_ERROR_TRANSFERS_TITLE" = "För många överföringsförsök";
+"PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_MESSAGE" = "Denna åtgärd är tillfälligt pausad. Försök igen senare. Dina tidigare uttag behandlas som vanligt.";
+"PAYMENTS_VELOCITY_ERROR_WITHDRAWALS_TITLE" = "För många uttagsförsök";
+"PAYMENTS_WAITLIST_TITLE" = "Du står på väntelistan";
+"DM_MESSAGE_PREVIEW_AUDIO" = "Ljud";
+"DM_MESSAGE_PREVIEW_FILE" = "Fil";
+"DM_MESSAGE_PREVIEW_GIF" = "GIF";
+"DM_MESSAGE_PREVIEW_PHOTO" = "Foto";
+"DM_MESSAGE_PREVIEW_POST" = "Tweet";
+"DM_MESSAGE_PREVIEW_UNKNOWN" = "Okänd bilaga";
+"DM_MESSAGE_PREVIEW_VIDEO" = "Video";
+"DM_NOTIFICATION_FALLBACK_BODY" = "Skickade ett meddelande";
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_MANY_OTHERS" = "Du & %@ andra";
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_ONE_OTHER" = "Du & 1 annan";
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER" = "Du & %@";
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER_AND_MANY_OTHERS" = "Du, %1$@ & %2$@ andra";
+"DM_NOTIFICATION_GROUP_TITLE_YOU_AND_USER_AND_ONE_OTHER" = "Du, %@ & 1 annan";
+"BOOKMARKS_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Bokmärken med Premium";
+"BOOKMARK_FOLDERS_ADD_REMOVE_TO_FOLDER_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Lägg till/ta bort från mapp med Premium";
+"BOOKMARK_FOLDERS_ADD_TO_FOLDER_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Lägg till i mapp med Premium";
+"BROADCAST_DID_REPOST_MESSAGE" = "%1$@ delade denna sändning!";
+"CAMERA_ADD_POST_ACCESSIBILITY_HINT" = "Lägger till tweetbild i kamerabilden";
+"CAMERA_ADD_POST_ACCESSIBILITY_LABEL" = "Lägg till Tweet";
+"COMMUNITY_TWEET_REMOVE_MEMBER_TITLE" = "Banna författaren från Communityn";
+"COMMUNITY_TWEET_SEARCH_AUTHOR_POSTS_FORMAT" = "Författarens tweets i denna Community";
+"COMPOSE_VIEW_UPLOAD_VIDEO_ACCESSIBILITY_HINT" = "Växla mellan videobiblioteket och tangentbordet";
+"COMPOSE_VIEW_UPLOAD_VIDEO_ACCESSIBILITY_LABEL" = "Ladda upp video";
+"DOWNLOAD_GROK_LABEL" = "Ladda ner Grok";
+"EDIT_PHOTO_ACTIVITY_VIEW_LABEL" = "Redigera foto med Grok";
+"EDIT_WITH_GROK_LABEL" = "Skapad med Grok. Tryck här för att redigera.";
+"LOGIN_VERIFICATION_SETTINGS_ADD_ANOTHER_PASSKEY_BUTTON_LABEL" = "Skapa en ny passnyckel";
+"LOGIN_VERIFICATION_SETTINGS_CREATE_A_PASSKEY_BUTTON_LABEL" = "Skapa en ny passnyckel";
+"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_PASSKEYS_TITLE" = "Hantera passnycklar";
+"LOGIN_VERIFICATION_SETTINGS_MANAGE_SECURITY_SECURITY_KEYS_TITLE" = "Säkerhetsnycklar";
+"NEWSCAMERA_SWITCH_POST_INSERTION_DISABLE_PERSON_SEGMENTATION" = "Stäng av personsegmentering";
+"NEWSCAMERA_SWITCH_POST_INSERTION_ENABLE_PERSON_SEGMENTATION" = "Slå på personsegmentering";
+"NEWSCAMERA_SWITCH_POST_INSERTION_FORMAT" = "Växla renderingsläge";
+"PARODY_COMMENTARY_FAN_ACCOUNT_MANAGE_SETTINGS_PICKER_DESCRIPTION" = "Visar denna etikett på din profil.";
+"PARODY_COMMENTARY_FAN_CHOOSE_LABEL_TITLE" = "Välj profiletikett";
+"PARODY_COMMENTARY_FAN_LABEL_FIELD_LABEL" = "Profiletikett";
+"PINNED_TWEET_PIN_ANYWAY" = "Fäst ändå";
+
+
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_ADDRESS_VERIFICATION_FAILED_MESSAGE" = "Vi kunde inte verifiera din faktureringsadress. Kontrollera uppgifterna och försök igen.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_AUTHORIZATION_FAILED_MESSAGE" = "Vi kunde inte godkänna ditt kort via banken. Försök igen eller kontakta din kortutgivare.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_CARDHOLDER_VERIFICATION_FAILED_MESSAGE" = "Vi kunde inte verifiera kortinnehavarens namn. Kontrollera uppgifterna och försök igen.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_PROVIDER_INTERNAL_FAILURE_MESSAGE" = "Problem att ansluta till din kortutgivare. Försök igen senare.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_ISSUER_COUNTRY_MESSAGE" = "Det här kortet kommer från ett land vi inte stödjer. Prova ett annat kort.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNSUPPORTED_TYPE_MESSAGE" = "Tyvärr, det här kortet stöds inte ännu. Testa ett annat.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_UNUSABLE_CARD_MESSAGE" = "Det här kortet kan inte användas. Försök med ett annat.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_SUCCESS" = "Ditt kort är nu kopplat till kontot.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_TRANSACTION_DEPOSIT_TITLE" = "Varifrån vill du överföra pengar?";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_TRANSACTION_WITHDRAW_TITLE" = "Vart vill du skicka pengarna?";
+"PAYMENTS_SUPPORT_CONVERSATION_SUBTITLE" = "Chatta med oss";
+"PAYMENTS_SUPPORT_CONVERSATION_TITLE" = "Support";
+"PAYMENTS_TAB_ACTIVITY" = "Aktivitet";
+"PAYMENTS_TAB_BALANCE" = "Saldo";
+"PAYMENTS_TAB_CARD" = "Kort";
+"PAYMENTS_TASKS_CAROUSEL_HEADER" = "Saker du bör känna till";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_CARD_USED" = "Använt kort";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_DATE" = "Transaktionsdatum";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_DESTINATION" = "Mottagare";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_ID" = "Transaktions-ID";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_LOCATION" = "Plats";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_PERIOD" = "Period";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_SOURCE" = "Källa";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_STATEMENT_DESCRIPTION" = "Visas som";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_STATUS" = "Status";
+"PAYMENTS_TRANSACTION_ATTRIBUTE_USING" = "Med";
+"PAYMENTS_TRANSACTION_DIRECTION_CREDIT" = "Från %@";
+"PAYMENTS_TRANSACTION_DIRECTION_DEBIT" = "Till %@";
+"PAYMENTS_TRANSACTION_ID_COPIED" = "Transaktions-ID kopierat";
+"PAYMENTS_TRANSACTION_PENDING_APPROVAL_MESSAGE" = "Väntar på att %@ ska godkänna betalningen";
+"PAYMENTS_TRANSACTION_REJECTED_BY_UNSUPPORTED_REGION_MESSAGE" = "Tyvärr stöder vi inte denna region än. Försök igen senare.";
+"PAYMENTS_TRANSACTION_REJECTED_CARD_PAYMENTS_DISABLED_MESSAGE" = "Vi stoppade transaktionen på grund av ovanlig aktivitet.";
+"PAYMENTS_TRANSACTION_REJECTED_LIMITS_EXCEEDED_MESSAGE" = "Överskrider kontots gränser. Granska dina gränser eller försök med ett lägre belopp.";
+"PAYMENTS_TRANSACTION_REJECTED_NOT_SUFFICIENT_FUNDS_MESSAGE" = "Ditt saldo räcker inte. Sätt in pengar och försök igen.";
+"PAYMENTS_TRANSACTION_STATUS_PENDING_APPROVAL" = "Väntar på godkännande";
+"PAYMENTS_TRANSACTION_TYPE_ATM_WITHDRAWAL" = "Uttag i automat";
+"PAYMENTS_TRANSACTION_TYPE_BANKING_DEPOSIT" = "Extern insättning";
+"PAYMENTS_TRANSACTION_TYPE_BANKING_WITHDRAW" = "Betalning";
+"PAYMENTS_TRANSACTION_TYPE_INTEREST" = "Ränteutbetalning";
+"PAYMENTS_TRANSACTION_TYPE_PAYMENT" = "Kortköp";
+"PAYMENTS_TRANSACTION_TYPE_REFUND" = "Återbetalning";
+"PAYMENTS_TRANSACTION_TYPE_REVERSE" = "Återkallad betalning";
+"PAYMENTS_TRANSACTION_TYPE_TRANSFER" = "Överföring mellan användare";
+"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_CONFIRMED_MESSAGE" = "Tack för att du bekräftade köpet. Försök igen, det borde fungera nu.";
+"PAYMENTS_TRANSACTION_UNRECOGNIZED_ACTIVITY_REJECTED_MESSAGE" = "Vi stoppade transaktionen på grund av misstänkt aktivitet.";
+"PAYMENTS_TRANSFER_ERROR_TITLE" = "Överföring misslyckades";
+"PAYMENTS_TRANSFER_PENDING_WITHOUT_AMOUNT" = "För “%@”";
+"PAYMENTS_TRANSFER_PENDING_WITH_AMOUNT" = "%1$@ för “%2$@”";
+"PAYMENTS_TRANSFER_QR_CODE_SCAN_TITLE" = "Skanna en QR-kod";
+"PAYMENTS_TRANSFER_QR_CODE_SHOW_TITLE" = "Visa min QR-kod";
+
+
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_TITLE" = "Ditt ersättningskort är på väg.";
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_VIRTUAL_SUBTITLE" = "Det är redo att användas. Dina prenumerationer och återkommande betalningar fortsätter som vanligt.";
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_VIRTUAL_TITLE" = "Vi har ersatt ditt virtuella kort";
+"PAYMENTS_HELP_CARD_ISSUE_TITLE" = "Berätta lite mer. Vad hände?";
+"PAYMENTS_HELP_OPTION_CARD_ISSUE" = "Kort borttappat, stulet eller skadat";
+"PAYMENTS_HELP_OPTION_CARD_ISSUE_DAMAGED" = "Mitt kort blev skadat";
+"PAYMENTS_HELP_OPTION_CARD_ISSUE_LOST" = "Jag tappade bort mitt kort";
+"PAYMENTS_HELP_OPTION_CARD_ISSUE_STOLEN" = "Mitt kort blev stulet";
+"PAYMENTS_HELP_OPTION_OTHER_ISSUE" = "Något annat";
+"PAYMENTS_HELP_OPTION_TRANSACTION_ISSUE" = "Invändning mot en transaktion";
+"PAYMENTS_HELP_TITLE" = "Få hjälp";
+"PAYMENTS_HELP_WELCOME_SUBTITLE" = "Drivs av Grok 3";
+"PAYMENTS_HELP_WELCOME_TITLE" = "Hur kan vi hjälpa till?";
+"PAYMENTS_LIMITS_CARD_SPEND_TITLE" = "Kortutgifter";
+"PAYMENTS_LIMITS_PER_DAY_FORMAT" = "%@ per dag";
+"PAYMENTS_LIMIT_EXCEEDED_ERROR_MESSAGE_LINK" = "granska dina gränser";
+"PAYMENTS_MAX_AMOUNT_ACTION" = "Max";
+"PAYMENTS_ONBOARDING_ADDRESS_LINE_2_FIELD_NAME" = "Adressrad 2";
+"PAYMENTS_ONBOARDING_CITY_FIELD_NAME" = "Stad";
+"PAYMENTS_ONBOARDING_DISCLAIMER_PRIVACY_POLICY_LINK" = "Integritetspolicy";
+"PAYMENTS_ONBOARDING_DISCLAIMER_SHORT_FORM_DISCLOSURE_LINK" = "Kort informationsdokument";
+"PAYMENTS_ONBOARDING_REQUIREMENT_BIRTH_DATE" = "Ha ett födelsedatum i din profil";
+"PAYMENTS_ONBOARDING_STATE_FIELD_NAME" = "Delstat";
+"PAYMENTS_PAYMENT_METHOD_STATUS_CANCELED" = "Avbruten";
+"PAYMENTS_PAYMENT_METHOD_STATUS_INACTIVE" = "Inaktiv";
+"PAYMENTS_PAYMENT_METHOD_TYPE_WITHOUT_FEES" = "Upp till %@ arbetsdagar (Gratis)";
+"PAYMENTS_PAYMENT_METHOD_TYPE_WITH_FEES" = "Omedelbart (%@ avgift)";
+"PAYMENTS_PREMIUM_PLUS_APY" = "Du tjänar %@ APY på alla insättningar";
+"PAYMENTS_PREMIUM_PLUS_THANKS" = "Tack för att du är Premium+-medlem";
+"PAYMENTS_REJECT_ACTION" = "Avvisa";
+"PAYMENTS_REJECT_UNRECOGNIZED_PAYMENT_ACTION" = "Jag gjorde inte detta köp";
+"PAYMENTS_REVIEW_LIMITS_ACTION" = "Granska gränser";
+"PAYMENTS_ROUTING_NUMBER" = "Routingnummer";
+"PAYMENTS_ROUTING_NUMBER_COPIED" = "Routingnumret har kopierats";
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_REQUESTS" = "Förfrågningar";
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_REQUESTS_DESCRIPTION" = "Endast personer du följer kan be om pengar från dig på Twitter.";
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_SETTINGS_TITLE" = "Förbättrad integritet";
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_TRANSFERS" = "Överföringar";
+"PAYMENTS_SECURITY_AND_PRIVACY_ENHANCED_PRIVACY_TRANSFERS_DESCRIPTION" = "Endast personer du följer kan skicka pengar till dig på Twitter.";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_CREATE_TRANSACTIONS_DESCRIPTION" = "För att genomföra en betalning från ditt konto.";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD" = "Betalmetoder";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_LINK_PAYMENT_METHOD_DESCRIPTION" = "För att koppla ett nytt kort eller bankkonto till ditt saldo.";
+"PAYMENTS_SECURITY_AND_PRIVACY_PIN_SETTINGS_REQUIRE_TO_UNLOCK_DESCRIPTION" = "För att se ditt saldo och använda Twitter Money.";
+"PAYMENTS_SECURITY_SETTINGS_ACTION" = "Säkerhetsinställningar";
+"PAYMENTS_SEND_ACTION" = "Skicka";
+"PAYMENTS_SETTINGS_HELP_CENTER" = "Hjälpcenter";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_CARD_ALREADY_EXISTS_MESSAGE" = "Detta kort är redan registrerat. Testa ett annat.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_MESSAGE" = "Oj, något gick fel. Försök igen senare.";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_GENERIC_TITLE" = "Kunde inte koppla kortet";
+"PAYMENTS_SETTINGS_PAYMENT_METHODS_ADD_CARD_ERROR_INACCURATE_DETAILS_MESSAGE" = "Vi kunde inte bekräfta dina kortuppgifter. Kontrollera och försök igen.";
+
+
+"PAYMENTS_CARD_SPEND_PIN_CONFIRMATION_TITLE" = "Bekräfta din PIN-kod";
+"PAYMENTS_CARD_SPEND_PIN_SUBTITLE" = "Används vid uttag och vissa köp. Du kan nollställa den när som helst.";
+"PAYMENTS_CARD_SPEND_PIN_TITLE" = "Välj PIN-kod för ditt kort";
+"PAYMENTS_CARD_SPEND_RESUME_TRANSACTIONS_ACTION" = "Lås upp kort";
+"PAYMENTS_CARD_SPEND_SHOW_DETAILS_ACTION" = "Visa kortdetaljer";
+"PAYMENTS_CARD_SPEND_SUBTITLE" = "Använd kortet";
+"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER" = "Genom att beställa ett kort godkänner du kortvillkoren. Kort utfärdas av Cross River Bank, medlem i FDIC.";
+"PAYMENTS_CARD_SPEND_TERMS_DISCLAIMER_LINK" = "Kortvillkor";
+"PAYMENTS_CARD_SPEND_TITLE" = "Kort";
+"PAYMENTS_CARD_TYPE_CHARGE" = "Charge-kort";
+"PAYMENTS_CARD_TYPE_COMBO" = "Kombokort";
+"PAYMENTS_CARD_TYPE_CREDIT" = "Kreditkort";
+"PAYMENTS_CARD_TYPE_DEBIT" = "Debetkort";
+"PAYMENTS_CARD_TYPE_DEFERRED_DEBIT" = "Fördröjt debet";
+"PAYMENTS_CARD_TYPE_PREPAID" = "Förbetalt kort";
+"PAYMENTS_CONFIRMATION_GENERIC_TITLE" = "Bekräfta åtgärden";
+"PAYMENTS_CONFIRMATION_REJECTED_GENERIC_SUBTITLE" = "Ingen mer åtgärd krävs just nu.";
+"PAYMENTS_CONFIRMATION_REJECTED_GENERIC_TITLE" = "Åtgärden avvisades";
+"PAYMENTS_CONFIRMATION_REJECTED_TRANSACTION_TITLE" = "Transaktionen avvisades";
+"PAYMENTS_CONFIRMATION_TRANSACTION_TITLE" = "Bekräfta denna %@-transaktion";
+"PAYMENTS_COPY_ACTION" = "Kopiera";
+"PAYMENTS_DIRECT_DEPOSIT_SUBTITLE" = "Lämna uppgifterna nedan till din arbetsgivare eller fyll i dem i ditt lönesystem.";
+"PAYMENTS_DIRECT_DEPOSIT_TITLE" = "Ställ in direktinsättning";
+"PAYMENTS_DISCLAIMER_FOOTER_TEXT" = "Twitter Money är ett fintech-företag, inte en bank. Konton hanteras av Cross River Bank, medlem i FDIC.";
+"PAYMENTS_DONE_ACTION" = "Klart";
+"PAYMENTS_EDIT_PROFILE_BIRTHDAY_ACTION" = "Lägg till födelsedatum";
+"PAYMENTS_ENABLE_ACTION" = "Aktivera";
+"PAYMENTS_ENTER_ADDRESS_MANUALLY_ACTION" = "Ange adress manuellt";
+"PAYMENTS_ERROR_IDEMPOTENCY_KEY_CONFLICT_MESSAGE_LINK" = "senaste transaktioner";
+"PAYMENTS_ERROR_ONBOARDING_WITH_VPN" = "Det verkar som att du använder VPN. Stäng av det och försök igen.";
+"PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED_SUBTITLE" = "Aktivera tvåfaktorsautentisering för att slutföra detta";
+"PAYMENTS_ERROR_TWO_FACTOR_AUTH_REQUIRED_TITLE" = "Extra säkerhet krävs";
+"PAYMENTS_ERROR_VERIFY_IDENTITY_DECLINED" = "Åtgärden avbröts.";
+"PAYMENTS_EXTERNAL_TRANSACTION_AMOUNT_TITLE" = "Belopp";
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_ERROR_TITLE" = "Insättning misslyckades";
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_INSTANT_CARD_SUCCESS_SUBTITLE" = "Korttransaktioner sker direkt.";
+"PAYMENTS_EXTERNAL_TRANSACTION_DEPOSIT_INSTANT_CARD_SUCCESS_TITLE" = "%@ har satts in på ditt konto";
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_ERROR_TITLE" = "Uttag misslyckades";
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_INSTANT_CARD_SUCCESS_SUBTITLE" = "Korttransaktioner sker direkt.";
+"PAYMENTS_EXTERNAL_TRANSACTION_WITHDRAW_INSTANT_CARD_SUCCESS_TITLE" = "%@ har dragits från ditt konto";
+"PAYMENTS_FORGOT_PIN_ERROR_TITLE" = "Kunde inte återställa din PIN-kod";
+"PAYMENTS_HELP_CARD_ISSUE_CONFIRM_ADDRESS_CONFIRM_ACTION" = "Skicka nytt kort";
+"PAYMENTS_HELP_CARD_ISSUE_CONFIRM_ADDRESS_TITLE" = "Är detta fortfarande rätt adress?";
+"PAYMENTS_HELP_CARD_ISSUE_CONFIRM_ADDRESS_UPDATE_ACTION" = "Uppdatera min adress";
+"PAYMENTS_HELP_CARD_ISSUE_CONTINUE_ACTION" = "Okej! Det var allt.";
+"PAYMENTS_HELP_CARD_ISSUE_PICKER_PHYSICAL_CARD" = "Fysiskt kort";
+"PAYMENTS_HELP_CARD_ISSUE_PICKER_TITLE" = "Vilket kort gäller det?";
+"PAYMENTS_HELP_CARD_ISSUE_PICKER_VIRTUAL_CARD" = "Virtuellt kort";
+"PAYMENTS_HELP_CARD_ISSUE_SUBTITLE" = "Beroende på vad som hänt skickar vi ett nytt kort eller skapar ett helt nytt.";
+"PAYMENTS_HELP_CARD_ISSUE_SUCCESS_SUBTITLE" = "Vi har pausat ditt nuvarande kort i väntan på nytt, för din säkerhet. Onlineköp fortsätter fungera.";
+
+
+"PAYMENTS_2FA_ERROR_MESSAGE_METHOD_ISSUE_LINK" = "Säkerhetsinställningar";
+"PAYMENTS_2FA_ERROR_TITLE" = "Autentiseringen misslyckades";
+"PAYMENTS_ACCEPT_ACTION" = "Acceptera";
+"PAYMENTS_ACCEPT_APPROVE_TRANSACTION_ACTION" = "Godkänn transaktion";
+"PAYMENTS_ACCEPT_APPROVE_TRANSACTION_ACTION_SHORT" = "Godkänn";
+"PAYMENTS_ACCOUNT_DETAILS_ACTION" = "Kontonummer & bankkod";
+"PAYMENTS_ACCOUNT_DETAILS_BILL_PAY_DESCRIPTION" = "Tillåt att externa tjänster drar pengar med din kontoinfo";
+"PAYMENTS_ACCOUNT_DETAILS_BILL_PAY_TITLE" = "Autogiro";
+"PAYMENTS_ACCOUNT_DETAILS_SECTION_TITLE" = "Kontouppgifter";
+"PAYMENTS_ACCOUNT_NUMBER" = "Kontonummer";
+"PAYMENTS_ACCOUNT_NUMBER_COPIED" = "Kontonumret har kopierats";
+"PAYMENTS_BANK_ACCOUNT_TYPE_CHECKING" = "Transaktionskonto";
+"PAYMENTS_BANK_ACCOUNT_TYPE_SAVINGS" = "Sparkonto";
+"PAYMENTS_BILL_PAY_SUBTITLE" = "Använd info nedan för att betala räkningar. Du kan stänga av det i inställningarna.";
+"PAYMENTS_BILL_PAY_TITLE" = "Betala dina räkningar";
+"PAYMENTS_CARD_BRAND_AMEX" = "Amex";
+"PAYMENTS_CARD_BRAND_MASTERCARD" = "Mastercard";
+"PAYMENTS_CARD_BRAND_VISA" = "Visa";
+"PAYMENTS_CARD_SPEND_ACTIVATE_PIN_TITLE" = "Ange PIN-kod för att aktivera ditt kort";
+"PAYMENTS_CARD_SPEND_ADDRESS_SUBTITLE" = "Kommer om 5–7 arbetsdagar";
+"PAYMENTS_CARD_SPEND_ADDRESS_TITLE" = "Vart ska vi skicka ditt kort?";
+"PAYMENTS_CARD_SPEND_ADD_TO_WALLET_ACTION" = "Lägg till i Apple Wallet";
+"PAYMENTS_CARD_SPEND_CHANGE_PIN" = "Byt PIN-kod";
+"PAYMENTS_CARD_SPEND_FIELD_ADDRESS" = "Adress";
+"PAYMENTS_CARD_SPEND_FIELD_CARDHOLDER_NAME" = "Kortinnehavarens namn";
+"PAYMENTS_CARD_SPEND_FIELD_CARD_NUMBER" = "Kortnummer";
+"PAYMENTS_CARD_SPEND_FIELD_CVC" = "CVC";
+"PAYMENTS_CARD_SPEND_FIELD_EXPIRATION" = "Utg.datum";
+"PAYMENTS_CARD_SPEND_FIELD_NAME" = "Namn";
+"PAYMENTS_CARD_SPEND_FIELD_ZIP_CODE" = "Postnummer";
+"PAYMENTS_CARD_SPEND_GET_HELP_ACTION" = "Få hjälp med kortet";
+"PAYMENTS_CARD_SPEND_HIDE_DETAILS_ACTION" = "Dölj kortdetaljer";
+"PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_CUSTOMER_MISSING_REQUIREMENTS_SUBTITLE" = "Vi behöver lite mer info från dig.";
+"PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_CUSTOMER_NOT_ELIGIBILE_SUBTITLE" = "Du är inte berättigad just nu.";
+"PAYMENTS_CARD_SPEND_ISSUE_CARD_ERROR_GENERIC_TITLE" = "Kunde inte utfärda ditt kort";
+"PAYMENTS_CARD_SPEND_ORDER_CARD_ACTION" = "Beställ mitt kort";
+"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_ACTION" = "Ser bra ut, skicka det!";
+"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_SUBTITLE" = "Kortet kommer om 5–7 arbetsdagar när det skickats.";
+"PAYMENTS_CARD_SPEND_ORDER_PHYSICAL_CARD_CONFIRM_TITLE" = "Kolla så allt stämmer innan vi skickar.";
+"PAYMENTS_CARD_SPEND_PAUSE_TRANSACTIONS_ACTION" = "Lås kort";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_ACTIVATED_TOAST" = "Kortet är redo att användas";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_INACTIVE_SUBTITLE" = "Kortet kom %@";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_INACTIVE_TITLE" = "Redo att aktiveras";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_LOCKED_SUBTITLE" = "Framtida köp nekas";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_LOCKED_TITLE" = "Ditt kort är låst";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_SUBTITLE" = "Använd det online eller i Apple Pay under tiden";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_PROCESSING_TITLE" = "Ditt kort är beställt";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_SUBTITLE" = "Aktivera kortet när det har kommit";
+"PAYMENTS_CARD_SPEND_PHYSICAL_CARD_SHIPPED_TITLE" = "Ditt kort har skickats";
+"PAYMENTS_CARD_SPEND_PIN_CONFIRMATION_SUBTITLE" = "Används vid uttag och vissa köp. Du kan ändra det när som helst.";
+
+
 "ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_BOOKMARK_BUTTON" = "Bokmärke";
 
 "ACCESSIBILITY_LABEL_IMMERSIVE_VIDEO_CARD_CAST_BUTTON" = "Rollbesättning";
@@ -186,15 +749,15 @@
 
 "BLOCK_MESSAGE_LIST_EMPTY_STREAM_MESSAGE_SUBTEXT" = "När du blockerar någon från meddelanden kan hen inte skicka meddelanden till dig. %@";
 
-"BLOCK_MESSAGE_LIST_TITLE" = "DM";
+"BLOCK_MESSAGE_LIST_TITLE" = "Direktmeddelanden";
 
 "BLOCK_MESSAGE_USER_TOAST_NOTIFICATION_LABEL_FORMAT" = "%@ har hindrats från att skicka meddelanden till dig";
 
-"BOOKMARKS_ADD_TO_BOOKMARKS_LABEL" = "Lägg till tweeten i Bokmärken";
+"BOOKMARKS_ADD_TO_BOOKMARKS_LABEL" = "Lägg till Tweeten i Bokmärken";
 
-"BOOKMARKS_ADD_TO_BOOKMARKS_TOOLTIP" = "Spara en tweet och läs det senare genom att spara det bland dina bokmärken";
+"BOOKMARKS_ADD_TO_BOOKMARKS_TOOLTIP" = "Spara en Tweet och läs det senare genom att spara det bland dina bokmärken";
 
-"BOOKMARKS_FOLDER_EMPTY_SUBTITLE" = "När du bokmärker en tweet kan du lägga till det i denna mapp.";
+"BOOKMARKS_FOLDER_EMPTY_SUBTITLE" = "När du bokmärker en Tweet kan du lägga till det i denna mapp.";
 
 "BOOKMARKS_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Bokmärken med Twitter Blue";
 
@@ -202,7 +765,7 @@
 
 "BOOKMARK_FOLDERS_ADD_TO_FOLDER_WITH_PREMIUM_ACCESSIBILITY_LABEL" = "Lägg till mappen med Twitter Blue";
 
-"BOOKMARK_SEARCH_PLACEHOLDER" = "Sök bokmärken";
+"BOOKMARK_SEARCH_PLACEHOLDER" = "Hitta ett bokmärke";
 
 "BROADCAST_CHAT_REPLYING_TO_FORMAT" = "Svarar %1$@: %2$@";
 
@@ -228,7 +791,7 @@
 
 "COMMUNITY_ACTIVITY_NEW_TWEETS_SUMMARY_FORMAT" = "%@ nya tweets";
 
-"COMMUNITY_ACTIVITY_NEW_TWEET_SUMMARY_FORMAT" = "%@ ny tweet";
+"COMMUNITY_ACTIVITY_NEW_TWEET_SUMMARY_FORMAT" = "%@ ny Tweet";
 
 "COMMUNITY_ADULT_CONTENT_DETAIL_TEXT" = "Du måste aktivera den här inställningen om din grupp innehåller material som är avsett för vuxna. Om du hoppar över detta leder det till automatisk filtrering av alla material som är avsett för vuxna i gruppen.";
 
@@ -358,11 +921,11 @@
 
 "COMMUNITY_TWEET_DETAIL_VIEW_SUBTITLE_FORMAT" = "%@ ›";
 
-"COMMUNITY_TWEET_HIDDEN_TOMBSTONE_DISPLAY_LABEL" = "En moderator har dolt denna tweet eftersom det bryter mot en gruppregel";
+"COMMUNITY_TWEET_HIDDEN_TOMBSTONE_DISPLAY_LABEL" = "En moderator har dolt denna Tweet eftersom det bryter mot en gruppregel";
 
-"COMMUNITY_TWEET_HIDE_TWEET_ACTION_TITLE" = "Dölj tweeten";
+"COMMUNITY_TWEET_HIDE_TWEET_ACTION_TITLE" = "Dölj Tweeten";
 
-"COMMUNITY_TWEET_HIDE_TWEET_REPORT_SCREEN_TITLE" = "Dölj tweeten";
+"COMMUNITY_TWEET_HIDE_TWEET_REPORT_SCREEN_TITLE" = "Dölj Tweeten";
 
 "COMMUNITY_TWEET_MEMBER_BADGE_LABEL" = "Medlem";
 
@@ -382,7 +945,7 @@
 
 "COMMUNITY_WELCOME_PROMPT_TITLE" = "Välkommen till Grupper";
 
-"COMPOSE_ACCESSIBILITY_LABEL" = "Skriv en tweet";
+"COMPOSE_ACCESSIBILITY_LABEL" = "Skriv en Tweet";
 
 "COMPOSE_FONT_SETTINGS_ACCESSIBILITY_HINT" = "Lägg till olika stilar i texten";
 
@@ -474,7 +1037,7 @@
 
 "CREATOR_SUBSCRIPTIONS_EMAIL_SHARING_TEXT_PLACEHOLDER" = "Ange din e-postadress";
 
-"CREATOR_TICKETS_ONBOARDING_TS_SECTION_3_SUBTITLE" = "När du har skapat ett Biljettbelagt Område kan du dela en tweet om det kommande eventet för att göra det enklare för dina fans att upptäcka och köpa biljetter. Du kan tjäna upp till 97 % av intäkterna från biljettförsäljningen efter att Apple har dragit av plattformsavgifterna på köp i appen.";
+"CREATOR_TICKETS_ONBOARDING_TS_SECTION_3_SUBTITLE" = "När du har skapat ett Biljettbelagt Område kan du dela en Tweet om det kommande eventet för att göra det enklare för dina fans att upptäcka och köpa biljetter. Du kan tjäna upp till 97 % av intäkterna från biljettförsäljningen efter att Apple har dragit av plattformsavgifterna på köp i appen.";
 
 "CREATOR_TIP_JAR_BITCOIN_SEND_TIP_ALERT_MESSAGE" = "Att ge dricks är underställt den externa plattformens villkor, däribland vilken information som lämnas ut om personer som skickar pengar till varandra. Inga pengar går till Twitter.";
 
@@ -588,7 +1151,7 @@
 
 "DIRECT_MESSAGE_SETTINGS_CALL_ACCEPT_FROM_DESCRIPTION" = "För att du ska få färre oönskade samtal måste du ha skickat ett meddelande till ett konto minst en gång innan kontot kan ringa dig.";
 
-"DIRECT_MESSAGE_SETTINGS_CALL_ACCEPT_FROM_ITEM_ADDRESS_BOOK" = "Folk i din adressbok";
+"DIRECT_MESSAGE_SETTINGS_CALL_ACCEPT_FROM_ITEM_ADDRESS_BOOK" = "Dina kontakter";
 
 "DIRECT_MESSAGE_SETTINGS_CALL_ACCEPT_FROM_ITEM_EVERYONE" = "Alla";
 
@@ -718,9 +1281,9 @@
 
 "DM_CONVERSATION_INFORMATIONAL_VANISHING_MODE_YOU_REMOVED" = "Du stänga av försvinnandeläge";
 
-"DM_EDIT_TWEET_LATEST_TWEET_ACCESSIBILITY_LABEL" = "Detta är den senaste versionen av denna tweet";
+"DM_EDIT_TWEET_LATEST_TWEET_ACCESSIBILITY_LABEL" = "Detta är den senaste versionen av denna Tweet";
 
-"DM_EDIT_TWEET_OUTDATED_CALLOUT_ACCESSIBILITY_LABEL" = "Det finns en ny version av denna tweet";
+"DM_EDIT_TWEET_OUTDATED_CALLOUT_ACCESSIBILITY_LABEL" = "Det finns en ny version av denna Tweet";
 
 "DM_ERROR_MESSAGE_TRY_AGAIN" = "Försök igen senare";
 
@@ -926,6 +1489,8 @@
 
 "DOWNLOAD_FINISHED_WITH_FAILED_OPERATIONS_APPLE_WATCH" = "%1$ld av %2$ld nedladdningar misslyckades";
 
+"DOWNLOAD_GROK_LABEL" = "Skaffa Grok";
+
 "DOWNLOAD_LIVE_ACTIVITY_DOWNLOADING" = "Laddar ned";
 
 "DOWNLOAD_SUSPENDED" = "Nedladdningen pausades";
@@ -942,7 +1507,7 @@
 
 "DOWNVOTE_ACTION_ACCESSIBILITY_LABEL" = "Rösta ned";
 
-"DOWNVOTE_BUTTON_ACCESSIBILITY_HINT" = "Röstar ned denna tweet";
+"DOWNVOTE_BUTTON_ACCESSIBILITY_HINT" = "Röstar ned denna Tweet";
 
 "EDIT_PROFILE_ACCOUNT_PROFILE_LABEL" = "Etikett";
 
@@ -986,7 +1551,7 @@
 
 "GET_VERIFIED_CONVERSATION_CONTROL_BUTTON_LABEL" = "Bli verifierad";
 
-"GET_VERIFIED_FOR_BOOSTING_MESSAGE" = "Verifiering är nödvändigt för att marknadsföra en tweet. Tryck nedan om du vill bli verifierad.";
+"GET_VERIFIED_FOR_BOOSTING_MESSAGE" = "Verifiering är nödvändigt för att marknadsföra en Tweet. Tryck nedan om du vill bli verifierad.";
 
 "GET_VERIFIED_UPGRADE_BUTTON_LABEL" = "Uppgradera och bli verifierad";
 
@@ -1126,7 +1691,7 @@
 
 "GROK_HOME_PROMPT_SUGGESTION_PHYSICS" = "Förklara kvantmekanik";
 
-"GROK_HOME_PROMPT_SUGGESTION_POST" = "Hjälp mig skriva en tweet";
+"GROK_HOME_PROMPT_SUGGESTION_POST" = "Hjälp mig skriva en Tweet";
 
 "GROK_HOME_PROMPT_SUGGESTION_QUOTES" = "Lista inspirerande citat";
 
@@ -1212,7 +1777,7 @@
 
 "GROK_RATE_LIMIT_IMAGE_GEN_COPY_HOUR" = "Ditt konto kan generera upp till %1$@ bilder varje timme. Uppgradera i dag om du vill generera fler.";
 
-"GROK_RATE_LIMIT_IMAGE_GEN_PREMIUM_TITLE" = "Generera fler bilder med Twitter Blue+";
+"GROK_RATE_LIMIT_IMAGE_GEN_PREMIUM_TITLE" = "Generera fler bilder med Blue+";
 
 "GROK_RATE_LIMIT_IMAGE_GEN_TITLE" = "Generera fler bilder med Twitter Blue";
 
@@ -1230,7 +1795,7 @@
 
 "GROK_RATE_LIMIT_QUESTION_COPY_HOUR" = "Ditt konto kan skicka upp till %1$@ meddelanden varje timme. Uppgradera nu om du vill skicka fler.";
 
-"GROK_RATE_LIMIT_QUESTION_PREMIUM_TITLE" = "Skicka fler meddelanden med Twitter Blue+";
+"GROK_RATE_LIMIT_QUESTION_PREMIUM_TITLE" = "Skicka fler meddelanden med Blue+";
 
 "GROK_RATE_LIMIT_QUESTION_TITLE" = "Skicka fler meddelanden med Twitter Blue";
 
@@ -1278,17 +1843,17 @@
 
 "GROK_SPEECH_ALLOW_RECOGNITION_REASON" = "Låt Twitter transkribera din röst.";
 
-"GROK_SPEECH_ENABLE_MICROPHONE" = "Slå PÅ mikrofonen";
+"GROK_SPEECH_ENABLE_MICROPHONE" = "Aktivera Mikrofon";
 
-"GROK_SPEECH_ENABLE_RECOGNITION" = "Taligenkänning slogs PÅ";
+"GROK_SPEECH_ENABLE_RECOGNITION" = "Aktivera Röstigenkänning";
 
-"GROK_SPEECH_IS_LISTENING" = "Grok lyssnar …";
+"GROK_SPEECH_IS_LISTENING" = "Grok lyssnar…";
 
-"GROK_SPEECH_OPEN_SETTINGS" = "Öppna inställningarna";
+"GROK_SPEECH_OPEN_SETTINGS" = "Öppna Inställningar";
 
 "GROK_SPEECH_PERMISSION_CONTINUE" = "Fortsätt";
 
-"GROK_SPEECH_PERMISSION_DENIED" = "Åtkomst nekades nyligen, bevilja åtkomst från Inställningar.";
+"GROK_SPEECH_PERMISSION_DENIED" = "Du har nekat Twitter åtkomst för denna funktionen. Du behöver manuellt ge Twitter åtkomst till den. Gör så här:";
 
 "GROK_SPEECH_PERMISSION_HEADLINE" = "Prata med Grok";
 
@@ -1402,7 +1967,7 @@
 
 "HIDDEN_REPLIES_TIMELINE_DESCRIPTION_FORMAT" = "Dessa svar doldes av %@.";
 
-"HIDDEN_REPLIES_TIMELINE_EMPTY_STATE_SUBTITLE_FORMAT" = "Det här tweeten har inga dolda svar, men skyddade tweets kan vara bortfiltrerade. %@";
+"HIDDEN_REPLIES_TIMELINE_EMPTY_STATE_SUBTITLE_FORMAT" = "Det här Tweeten har inga dolda svar, men skyddade tweets kan vara bortfiltrerade. %@";
 
 "HIDDEN_REPLIES_TIMELINE_EMPTY_STATE_TITLE" = "Här finns inget att se";
 
@@ -1418,7 +1983,7 @@
 
 "HIDE_REPLY_ACTION_LABEL" = "Dölj svar";
 
-"HIDE_REPLY_AUTHOR_EDUCATION_DESCRIPTION_FORMAT" = "För att ge dig mer kontroll över de samtal du inleder kan tweet-författare dölja svar på sina tweets.\n\nDolda svar flyttas till en annan sida, och alla kan se dem genom att välja ikonen för dolda svar på tweeten. %@";
+"HIDE_REPLY_AUTHOR_EDUCATION_DESCRIPTION_FORMAT" = "För att ge dig mer kontroll över de samtal du inleder kan Tweet-författare dölja svar på sina tweets.\n\nDolda svar flyttas till en annan sida, och alla kan se dem genom att välja ikonen för dolda svar på Tweeten. %@";
 
 "HIDE_REPLY_AUTHOR_EDUCATION_TITLE_LABEL" = "Dölja svar på dina tweets";
 
@@ -1432,15 +1997,15 @@
 
 "HIDE_REPLY_EDUCATION_CTA_LABEL" = "Dölj svar";
 
-"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_HIDDEN" = "Svaret har dolts i tweeten";
+"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_HIDDEN" = "Svaret har dolts i Tweeten";
 
-"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_UNHIDDEN" = "Svaret har slutat döljas från tweeten";
+"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_UNHIDDEN" = "Svaret har slutat döljas från Tweeten";
 
 "HIDE_REPLY_TOOLTIP" = "Dölj svar på dina tweets";
 
 "HOME_TIMELINE_BACK_TITLE" = "Tidslinje";
 
-"HOME_TIMELINE_IMMEDIATE_DISMISS_TOOL_TIP_LABEL" = "Ta bort en tweet om du vill se färre som det framöver";
+"HOME_TIMELINE_IMMEDIATE_DISMISS_TOOL_TIP_LABEL" = "Ta bort en Tweet om du vill se färre som det framöver";
 
 "HOME_TIMELINE_LATEST_TITLE" = "Följer";
 
@@ -1664,7 +2229,7 @@
 
 "NUDGES_AMR_BLOCK_SUBTITLE_LONG_V2" = "Låt inte hen kontakta eller följa dig. Andra kan fortfarande se detta svar.";
 
-"OFFLINE_ADD_TO_OFFLINE_BUTTON_TITLE" = "Lägg till på Offline";
+"OFFLINE_ADD_TO_OFFLINE_BUTTON_TITLE" = "Spara offline";
 
 "OFFLINE_COULD_NO_DOWNLOAD_ERROR_TOAST_TEXT" = "Det gick inte att hämta till offline-cachen, försök igen senare";
 
@@ -1906,7 +2471,7 @@
 
 "PAYMENTS_FORGOT_PIN_TITLE" = "Jag har glömt pinkoden";
 
-"PAYMENTS_GET_PREMIUM_ACTION" = "Skaffa Twitter Blue";
+"PAYMENTS_GET_PREMIUM_ACTION" = "Skaffa Blue";
 
 "PAYMENTS_GOT_IT_ACTION" = "Jag förstår";
 
@@ -2346,7 +2911,7 @@
 
 "PINNED_TIMELINES_UNDO_UNPIN_LABEL" = "Ångra losstagningen";
 
-"PINNED_TWEET_GENERIC_ERROR_MESSAGE" = "Det gick inte att uppdatera det fastnålade tweeten.";
+"PINNED_TWEET_GENERIC_ERROR_MESSAGE" = "Det gick inte att uppdatera det fastnålade Tweeten.";
 
 "PLAYER_CONTROL_BAR_GO_LIVE" = "Sänd live";
 
@@ -2354,7 +2919,7 @@
 
 "PLAYER_CONTROL_VIDEO_TIMELINE_ACCESSIBILITY_LABEL" = "Videoförloppskontroll";
 
-"POST_INTERACTIONS" = "Interaktioner med tweeten";
+"POST_INTERACTIONS" = "Tweet-interaktioner";
 
 "PREFERENCES_ABOUT_TWITTER_LABEL" = "Om Twitter";
 
@@ -2372,11 +2937,11 @@
 
 "PREMIUM_SETTINGS_TITLE" = "Premiuminställningar";
 
-"PREMIUM_TIER_BASIC_TITLE" = "Grundnivå";
+"PREMIUM_TIER_BASIC_TITLE" = "Blue Basic";
 
-"PREMIUM_TIER_GET_PREMIUM_UPSELL_TITLE" = "Skaffa Twitter Blue";
+"PREMIUM_TIER_GET_PREMIUM_UPSELL_TITLE" = "Skaffa Blue";
 
-"PREMIUM_TIER_PLUS_TITLE" = "Twitter Blue+";
+"PREMIUM_TIER_PLUS_TITLE" = "Blue+";
 
 "PROFILE_ANALYTICS_UPSELL_IMPRESSIONS" = "%1$@ visningar av dina tweets under de senaste %2$@ dagarna";
 
@@ -2416,19 +2981,19 @@
 
 "PROTECT_VIDEOS_SETTING_TITLE" = "Skydda dina videor";
 
-"QUICK_PROMOTE_CAMPAIGN_CREATION_SUCCESS_MESSAGE" = "Kolla tweet-analysen när du vill för att mäta resultatet av din rapport.";
+"QUICK_PROMOTE_CAMPAIGN_CREATION_SUCCESS_MESSAGE" = "Kolla Tweet-analysen när du vill för att mäta resultatet av din rapport.";
 
 "QUICK_PROMOTE_SEARCH_LOCATION_CANCEL_BUTTON" = "Avbryt";
 
 "QUICK_PROMOTE_SEARCH_LOCATION_CHANGE_BUTTON" = "Ändra plats";
 
-"QUICK_PROMOTE_SEARCH_LOCATION_LABEL" = "Var ska tweeten marknadsföras?";
+"QUICK_PROMOTE_SEARCH_LOCATION_LABEL" = "Var ska Tweeten marknadsföras?";
 
 "QUICK_PROMOTE_SEARCH_LOCATION_NOT_SET" = "Platsen har inte angetts";
 
 "QUICK_PROMOTE_SEARCH_LOCATION_SET_BUTTON" = "Ange platsen";
 
-"QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT_V2" = "Genom att klicka på Boosta tweeten accepterar du %@.";
+"QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT_V2" = "Genom att klicka på Boosta Tweeten accepterar du %@.";
 
 "RADAR_WEBVIEW_TITLE" = "Radar";
 
@@ -2452,7 +3017,7 @@
 
 "REPORT_SPAM_ACTION_BLOCK_MESSAGE_USERNAMELESS_LABEL_FORMAT" = "Blockera meddelanden från %@";
 
-"REPORT_TWEET_ACTION_LABEL" = "Rapportera tweeten";
+"REPORT_TWEET_ACTION_LABEL" = "Rapportera Tweeten";
 
 "REPORT_USER_ACTION_LABEL" = "Rapportera";
 
@@ -2590,7 +3155,7 @@
 
 "SUBSCRIPTION_FEATURES_EARLY_ACCESS_UNDO_DETAILS" = "Ställ in en timer för att ångra skickade tweets och välj vilka typer av tweets du vill ångra.";
 
-"SUBSCRIPTION_FEATURES_EARLY_ACCESS_UNDO_TITLE" = "Ångra tweeten";
+"SUBSCRIPTION_FEATURES_EARLY_ACCESS_UNDO_TITLE" = "Ångra Tweeten";
 
 "SUBSCRIPTION_GIFTING_ALERT_FAIL_TEXT" = "Köpet misslyckades. Försök igen senare.";
 
@@ -2646,7 +3211,7 @@
 
 "SUBSCRIPTION_OFFERS_UPSELL_TITLE" = "50 % rabatt";
 
-"SUBSCRIPTION_PREMIUM_GET_TEXT" = "Skaffa Twitter Blue";
+"SUBSCRIPTION_PREMIUM_GET_TEXT" = "Skaffa Blue";
 
 "SUBSCRIPTION_PREMIUM_HIDE_LIKES_SETTING_DETAIL" = "Fliken Gillar i din profil blir bara synlig för dig. Tidslinjen för det du har gillat döljs även för Twitter:s API:er. Dina enskilda gilla-markeringar syns fortfarande på tweets.";
 
@@ -2682,7 +3247,7 @@
 
 "SUBSCRIPTION_SAVINGS_PERCENT" = "SPARA %@";
 
-"SUBSCRIPTION_SETTINGS_DESCRIPTION" = "Hantera dina prenumerationsfunktioner, däribland Ångra tweet-tidpunkt.";
+"SUBSCRIPTION_SETTINGS_DESCRIPTION" = "Hantera dina prenumerationsfunktioner, däribland Ångra Tweet-tidpunkt.";
 
 "SUBSCRIPTION_SETTINGS_TITLE" = "Twitter Blue";
 
@@ -2712,7 +3277,7 @@
 
 "SUBSCRIPTION_UNDER_REVIEW_MODAL_TITLE" = "Din bock är på gång";
 
-"SUBSCRIPTION_UNDO_SEND_VIEW_TWEET_ACTION_TITLE" = "Visa tweeten";
+"SUBSCRIPTION_UNDO_SEND_VIEW_TWEET_ACTION_TITLE" = "Visa Tweeten";
 
 "SUBSCRIPTION_UNLOCK_FEATURE" = "Lås upp %1$@ med %2$@";
 
@@ -2756,7 +3321,7 @@
 
 "SUBSCRIPTION_UPSELL_OFFLINE_VIDEOS_FEATURE_NAME" = "Offline-videor";
 
-"SUBSCRIPTION_UPSELL_PREMIUM_BASIC_TIER_NAME" = "Twitter Blue Basic";
+"SUBSCRIPTION_UPSELL_PREMIUM_BASIC_TIER_NAME" = "Blue Basic";
 
 "SUBSCRIPTION_UPSELL_QUICK_PROMOTE_FEATURE_NAME" = "Marknadsförda tweets";
 
@@ -2764,7 +3329,7 @@
 
 "SUBSCRIPTION_UPSELL_RICHTEXT_FEATURE_NAME" = "Formaterad text";
 
-"SUBSCRIPTION_UPSELL_X_PREMIUM_TIER_NAME" = "Twitter Blue";
+"SUBSCRIPTION_UPSELL_X_PREMIUM_TIER_NAME" = "Blue";
 
 "SUBSCRIPTION_VERIFIED_EXPIRING_SUBTITLE" = "Prenumerationen är aktiv. Dina funktioner kommer att vara tillgängliga under resten av faktureringsperioden.";
 
@@ -2798,21 +3363,21 @@
 
 "TIMELINE_SETTINGS_POST_SWIPE_GESTURE_RIGHT_DISPLAY_LABEL" = "Svep åt höger";
 
-"TIMELINE_SORT_BY_LIKED" = "Mest gillat";
+"TIMELINE_SORT_BY_LIKED" = "Populärt";
 
-"TIMELINE_SORT_BY_RECENT" = "Senaste";
+"TIMELINE_SORT_BY_RECENT" = "Nytt";
 
-"TIMELINE_SORT_BY_RELEVANT" = "Trendar";
+"TIMELINE_SORT_BY_RELEVANT" = "Topp";
 
-"TIMELINE_SORT_REPLIES_BY_LIKED" = "Mest gillade svar";
+"TIMELINE_SORT_REPLIES_BY_LIKED" = "Populära";
 
-"TIMELINE_SORT_REPLIES_BY_RECENT" = "Senaste svaren";
+"TIMELINE_SORT_REPLIES_BY_RECENT" = "Nytt";
 
-"TIMELINE_SORT_REPLIES_BY_RELEVANT" = "Mest relevanta svaren";
+"TIMELINE_SORT_REPLIES_BY_RELEVANT" = "Topp";
 
 "TIMELINE_SORT_REPLIES_TITLE" = "Sortera svar";
 
-"TIMELINE_SORT_TITLE" = "Sortera tweets";
+"TIMELINE_SORT_TITLE" = "Sortera Tweets";
 
 "TIME_SHORT_MONTHS_FORMAT" = "%@mån";
 
@@ -2840,15 +3405,15 @@
 
 "TWEET_AUDIENCE_SELECTOR_LOCATION_SECTION_TITLE" = "Välj plats";
 
-"TWEET_AUDIENCE_SELECTOR_PROTECTED_ACCOUNT_AUDIENCE_ACCESSIBILITY_HINT" = "Skriv en tweet till alla dina följare";
+"TWEET_AUDIENCE_SELECTOR_PROTECTED_ACCOUNT_AUDIENCE_ACCESSIBILITY_HINT" = "Skriv en Tweet till alla dina följare";
 
 "TWEET_DETAIL_VIEW_COUNT_ACCESSIBILITY_HINT" = "Öppnar statistiken";
 
-"TWEET_DETAIL_VIEW_TITLE" = "Gör en tweet";
+"TWEET_DETAIL_VIEW_TITLE" = "Gör en Tweet";
 
 "TWEET_DISMISSED_LABEL" = "Tack. Twitter använder detta för att förbättra din tidslinje.";
 
-"TWEET_FEEDBACK_DONT_LIKE_DISMISS_TWEET_ACCESSIBILITY_LABEL" = "Stäng tweeten";
+"TWEET_FEEDBACK_DONT_LIKE_DISMISS_TWEET_ACCESSIBILITY_LABEL" = "Stäng Tweeten";
 
 "TWEET_FEEDBACK_HOME_HIDDEN_ACTION_LABEL" = "Vi kommer att föreslå färre tweets som denna.";
 
@@ -2934,7 +3499,7 @@
 
 "UNDO_DOWNVOTE_ACTION_ACCESSIBILITY_LABEL" = "Ångra nedröstning";
 
-"UNDO_DOWNVOTE_BUTTON_ACCESSIBILITY_HINT" = "Ångra nedröstningar på denna tweet";
+"UNDO_DOWNVOTE_BUTTON_ACCESSIBILITY_HINT" = "Ångra nedröstningar på denna Tweet";
 
 "UNDO_RETWEET_ACTION_ACCESSIBILITY_LABEL" = "Ångra retweet";
 
@@ -2942,7 +3507,7 @@
 
 "UNDO_RETWEET_AND_QT_BUTTON_ACCESSIBILITY_HINT" = "Citerar eller ångrar retweeten";
 
-"UNLIKE_BUTTON_ACCESSIBILITY_HINT" = "Slutar gilla denna tweet";
+"UNLIKE_BUTTON_ACCESSIBILITY_HINT" = "Slutar gilla denna Tweet";
 
 "UNMUTE_LIST_SUBTITLE" = "Toppinlägg från denna lista kan visas på hemtidslinjen.";
 
@@ -2992,9 +3557,9 @@
 
 "USER_PROFILE_HIGHLIGHTS_ACTION_LABEL" = "Lägg till/ta bort från Höjdpunkter";
 
-"USER_PROFILE_HIGHLIGHTS_ALERT_MESSAGE_ADD" = "Denna tweet kommer att finnas på fliken Höjdpunkter i din profil.";
+"USER_PROFILE_HIGHLIGHTS_ALERT_MESSAGE_ADD" = "Denna Tweet kommer att finnas på fliken Höjdpunkter i din profil.";
 
-"USER_PROFILE_HIGHLIGHTS_ALERT_MESSAGE_REMOVE" = "Denna tweet kommer att tas bort från fliken Höjdpunkter i din profil.";
+"USER_PROFILE_HIGHLIGHTS_ALERT_MESSAGE_REMOVE" = "Denna Tweet kommer att tas bort från fliken Höjdpunkter i din profil.";
 
 "USER_PROFILE_HIGHLIGHTS_ALERT_TITLE_ADD" = "Vill du lägga till detta i Höjdpunkter?";
 
@@ -3006,7 +3571,7 @@
 
 "USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_BUTTON_NONVERIFIED" = "Prenumerera på Twitter Blue";
 
-"USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_SUBTITLE" = "Så här lägger du till Höjdpunkter i din profil:\n\n 1. Leta reda på en tweet som du har skapat\n 2. Tryck på menyknappen ”…”\n 3. Tryck på Lägg till/ta bort från Höjdpunkter";
+"USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_SUBTITLE" = "Så här lägger du till Höjdpunkter i din profil:\n\n 1. Leta reda på en Tweet som du har skapat\n 2. Tryck på menyknappen ”…”\n 3. Tryck på Lägg till/ta bort från Höjdpunkter";
 
 "USER_PROFILE_HIGHLIGHTS_EMPTY_STATE_SUBTITLE_NONVERIFIED" = "Du måste prenumerera på Twitter Blue för att kunna märka tweets i din profil.";
 
@@ -3150,7 +3715,7 @@
 
 "VIDEO_SETTINGS_AIRPLAY_AND_CASTING" = "Airplay, sändning och Bluetooth";
 
-"VIDEO_SETTINGS_AUTO_ADVANCE_TITLE" = "Gå framåt automatiskt";
+"VIDEO_SETTINGS_AUTO_ADVANCE_TITLE" = "Spela nästa video";
 
 "VIDEO_SETTINGS_CAPTION_AUTO_GENERATED_OFF_LABEL" = "Av (autogenererat)";
 
@@ -3164,7 +3729,7 @@
 
 "VIDEO_SETTINGS_DOWNLOAD_VIDEO" = "Hämta videon";
 
-"VIDEO_SETTINGS_GO_TO_POST" = "Gå till tweeten";
+"VIDEO_SETTINGS_GO_TO_POST" = "Gå till Tweeten";
 
 "VIDEO_SETTINGS_QUALITY_AUTO_TITLE" = "Auto";
 
@@ -3172,33 +3737,33 @@
 
 "VIEW_COUNT_FOR_TWEET_INLINE" = "%@ visningar";
 
-"VIEW_COUNT_INFO_BODY_DISABLED" = "Antal visningar är inte tillgängligt för denna tweet. Besök %@ för att läsa mer.";
+"VIEW_COUNT_INFO_BODY_DISABLED" = "Antal visningar är inte tillgängligt för denna Tweet. Besök %@ för att läsa mer.";
 
-"VIEW_COUNT_INFO_BODY_DISABLED_PROMOTED" = "Det här är en marknadsfört tweet. Antalet gånger tweeten visades är privat. Besök %@ för att läsa mer.";
+"VIEW_COUNT_INFO_BODY_DISABLED_PROMOTED" = "Det här är en marknadsfört Tweet. Antalet gånger Tweeten visades är privat. Besök %@ för att läsa mer.";
 
-"VIEW_COUNT_INFO_BODY_ENABLED" = "Antal gånger det här tweeten har visats. Det kan ta några minuter innan antalet visningar syns. Besök %@ om du vill veta mer.";
+"VIEW_COUNT_INFO_BODY_ENABLED" = "Antal gånger det här Tweeten har visats. Det kan ta några minuter innan antalet visningar syns. Besök %@ om du vill veta mer.";
 
-"VIEW_COUNT_INFO_BODY_ENABLED_WITH_COUNT" = "Antal gånger denna tweet har visats. Besök %@ om du vill veta mer.";
+"VIEW_COUNT_INFO_BODY_ENABLED_WITH_COUNT" = "Antal gånger denna Tweet har visats. Besök %@ om du vill veta mer.";
 
-"VIEW_POST_INTERACTIONS" = "Visa interaktioner med tweeten";
+"VIEW_POST_INTERACTIONS" = "Visa interaktioner med Tweeten";
 
-"VIEW_POST_INTERACTIONS_TOOLTIP" = "Visa citat och retweetar i Interaktioner med tweeten";
+"VIEW_POST_INTERACTIONS_TOOLTIP" = "Visa citat och retweetar i Tweet-interaktioner";
 
 "VIEW_TWEET_ACTIVITY_TITLE" = "Inläggsaktivitet";
 
 "VIEW_TWEET_ACTIVITY_TWEET_DETAIL_LABEL" = "Visa statistik";
 
-"VIEW_TWEET_AUTHOR_PROFILE_ACCESSIBILITY_ACTION" = "Visa tweet-författarens profil";
+"VIEW_TWEET_AUTHOR_PROFILE_ACCESSIBILITY_ACTION" = "Visa Tweet-författarens profil";
 
 "VIEW_WHO_FAVORITED_THIS_TWEET" = "Visa gilla-markeringar";
 
-"VIEW_WHO_FAVORITED_THIS_TWEET_TOOLTIP" = "Tryck länge för att se vilka som har gillat din tweet";
+"VIEW_WHO_FAVORITED_THIS_TWEET_TOOLTIP" = "Tryck länge för att se vilka som har gillat din Tweet";
 
 "VIEW_WHO_QUOTED_OR_REPOSTED_THIS_TWEET" = "Visa citat och retweetar";
 
 "VIEW_WHO_QUOTED_THIS_TWEET" = "Visa citat";
 
-"VIEW_WHO_QUOTED_THIS_TWEET_TOOLTIP" = "Tryck länge för att se vilka som har citerat denna tweet";
+"VIEW_WHO_QUOTED_THIS_TWEET_TOOLTIP" = "Tryck länge för att se vilka som har citerat denna Tweet";
 
 "VIEW_WHO_REPOSTED_THIS_TWEET" = "Visa retweetar";
 
@@ -3226,19 +3791,19 @@
 
 "VOICE_ROOM_COHOST_INVITE_PROTECTED_TWEETS_LINK_HTML_FORMAT" = "<p>Alla kan höra folk som har <a id=\"HELP_LINK\">skyddade tweets</a> när de pratar i ett område.</p>";
 
-"VOICE_ROOM_COMPOSE_CARD_ACCESSIBILITY_LABEL_FORMAT" = "Förhandsvisning av områdeskortet som visas i din tweet, %1$@ i regi av %2$@";
+"VOICE_ROOM_COMPOSE_CARD_ACCESSIBILITY_LABEL_FORMAT" = "Förhandsvisning av områdeskortet som visas i din Tweet, %1$@ i regi av %2$@";
 
 "VOICE_ROOM_CONTROLS_CAMERA_BUTTON_ACCESSIBILITY_LABEL" = "Kamera";
 
 "VOICE_ROOM_CONTROLS_CAMERA_BUTTON_DISABLED_ACCESSIBILITY_HINT" = "Dubbeltryck för att aktivera";
 
-"VOICE_ROOM_CONTROLS_CAMERA_BUTTON_DISABLED_ACCESSIBILITY_VALUE" = "Inaktiverat";
+"VOICE_ROOM_CONTROLS_CAMERA_BUTTON_DISABLED_ACCESSIBILITY_VALUE" = "Av";
 
 "VOICE_ROOM_CONTROLS_CAMERA_BUTTON_ENABLED_ACCESSIBILITY_HINT" = "Dubbeltryck för att inaktivera";
 
-"VOICE_ROOM_CONTROLS_CAMERA_BUTTON_ENABLED_ACCESSIBILITY_VALUE" = "Aktiverat";
+"VOICE_ROOM_CONTROLS_CAMERA_BUTTON_ENABLED_ACCESSIBILITY_VALUE" = "På";
 
-"VOICE_ROOM_CONTROLS_TWEET_BUTTON_ACCESSIBILITY_HINT" = "Gör en tweet";
+"VOICE_ROOM_CONTROLS_TWEET_BUTTON_ACCESSIBILITY_HINT" = "Gör en Tweet";
 
 "VOICE_ROOM_CREATION_LEARN_MORE_ACCESSIBILITY_LABEL" = "Lär känna Områden";
 
@@ -3262,7 +3827,7 @@
 
 "VOICE_ROOM_ERROR_STATUS_NOT_AUTHORIZED_REQUEST_PENDING" = "Din begäran om att få delta i denna konferens har inte besvarats än.";
 
-"VOICE_ROOM_FAB_TUTORIAL_ACCESSIBILITY_ANNOUNCEMENT" = "Du kan nu stå värd för och delta i livesamtal i områden. Testa det genom att svepa nedåt på knappen Skriv tweet.";
+"VOICE_ROOM_FAB_TUTORIAL_ACCESSIBILITY_ANNOUNCEMENT" = "Du kan nu stå värd för och delta i livesamtal i områden. Testa det genom att svepa nedåt på knappen Skriv Tweet.";
 
 "VOICE_ROOM_GUESTS_LISTENERS_FORMAT" = "%@ personer på Twitter lyssnar";
 
@@ -3290,9 +3855,9 @@
 
 "VOICE_ROOM_LOGGED_OUT_SHARE_SPACE" = "Dela med folk utanför Twitter";
 
-"VOICE_ROOM_MULTI_SCHEDULED_VIEW_OPTION_SHARE_TWEET" = "Dela via tweet";
+"VOICE_ROOM_MULTI_SCHEDULED_VIEW_OPTION_SHARE_TWEET" = "Dela via Tweet";
 
-"VOICE_ROOM_NOTIFICATION_STATUS" = "%@ delade en tweet";
+"VOICE_ROOM_NOTIFICATION_STATUS" = "%@ delade en Tweet";
 
 "VOICE_ROOM_NUX_GUEST_PARTICIPATION_SUBTITLE" = "Alla kan lyssna, även personer som inte är inloggade på Twitter.";
 
@@ -3312,7 +3877,7 @@
 
 "VOICE_ROOM_REPLAY_DELETE_CONFIRMATION_MESSAGE" = "Om du raderar inspelningen kommer ingen att kunna lyssna på ditt område när det har stängts.\n\nX kommer att behålla en kopia av området i minst 30 dagar för att se om det innehåller spam eller ovett efter att området stängs.";
 
-"VOICE_ROOM_REPLAY_NUX_REPLAY_DESCRIPTION" = "Lyssna på inspelningen när du vill. Du kan även dela den med en tweet.";
+"VOICE_ROOM_REPLAY_NUX_REPLAY_DESCRIPTION" = "Lyssna på inspelningen när du vill. Du kan även dela den med en Tweet.";
 
 "VOICE_ROOM_REPLAY_NUX_SHARE_DESCRIPTION" = "Håll samtalet i gång genom att tweeta om ditt inspelade område.";
 
@@ -3324,11 +3889,11 @@
 
 "VOICE_ROOM_SHARED_TWEET_DELETED_TOAST" = "Inlägget har tagits bort";
 
-"VOICE_ROOM_SHARED_TWEET_DELETE_ALERT_MESSAGE" = "Vill du verkligen ta bort denna tweet?";
+"VOICE_ROOM_SHARED_TWEET_DELETE_ALERT_MESSAGE" = "Vill du verkligen ta bort denna Tweet?";
 
-"VOICE_ROOM_SHARED_TWEET_DELETE_ALERT_TITLE" = "Ta bort tweeten";
+"VOICE_ROOM_SHARED_TWEET_DELETE_ALERT_TITLE" = "Ta bort Tweeten";
 
-"VOICE_ROOM_SHARED_TWEET_DELETE_BUTTON_ACCESSIBILITY_LABEL" = "Ta bort tweeten";
+"VOICE_ROOM_SHARED_TWEET_DELETE_BUTTON_ACCESSIBILITY_LABEL" = "Ta bort Tweeten";
 
 "VOICE_ROOM_SHARED_TWEET_SUMMARY_LABEL" = "%lu tweets har delats i detta område";
 
@@ -3336,9 +3901,9 @@
 
 "VOICE_ROOM_SHARED_TWEET_TOAST" = "Inlägget delades i %@";
 
-"VOICE_ROOM_SHARE_NUDGE_BUTTON_TITLE" = "Dela med en tweet";
+"VOICE_ROOM_SHARE_NUDGE_BUTTON_TITLE" = "Dela med en Tweet";
 
-"VOICE_ROOM_SHARE_SCHEDULED_TWEET_BUTTON" = "Gör en tweet";
+"VOICE_ROOM_SHARE_SCHEDULED_TWEET_BUTTON" = "Gör en Tweet";
 
 "VOICE_ROOM_SPACEBAR_ISHOSTING_WITH_VIDEO_MESSAGE" = "{{USERNAME}} är värd med video";
 
@@ -3346,7 +3911,7 @@
 
 "VOICE_ROOM_SPACEBAR_PLUSTWEETS_MESSAGE" = ">{{TWEETS_COUNT}} tweets om detta område";
 
-"VOICE_ROOM_SPACEBAR_SHAREDTWEET_MESSAGE" = "{{USERNAME}} delade en tweet här";
+"VOICE_ROOM_SPACEBAR_SHAREDTWEET_MESSAGE" = "{{USERNAME}} delade en Tweet här";
 
 "VOICE_ROOM_TOOLTIP_DOCK_BUTTON_ADMIN" = "Hitta tweets att dela i ditt område";
 
@@ -3354,7 +3919,7 @@
 
 "VOICE_ROOM_TOOLTIP_DOCK_BUTTON_SPEAKER" = "Hitta tweets att dela i det här området";
 
-"VOICE_ROOM_USER_ACTION_SHARE_VIA_TWEET" = "Dela via tweet";
+"VOICE_ROOM_USER_ACTION_SHARE_VIA_TWEET" = "Dela via Tweet";
 
 "VOICE_ROOM_VIDEO_CLOSE_FULL_SCREEN_BUTTON_ACCESSIBILITY_LABEL" = "Stäng helskärmsvideon";
 
@@ -3390,11 +3955,11 @@
 
 "VOICE_TAB_TOMBSTONE_NOT_INTERESTED" = "Tack! Detta hjälper oss att förbättra upplevelsen av Twitter för dig.";
 
-"WEB_VIEW_PROMPT_CUSTOM_ACTION_SHEET_SHARE_TWEET_BUTTON_TITLE" = "Dela i en ny tweet";
+"WEB_VIEW_PROMPT_CUSTOM_ACTION_SHEET_SHARE_TWEET_BUTTON_TITLE" = "Dela i en ny Tweet";
 
 "WEB_VIEW_PROMPT_TOOLBAR_TWEET_LINK_BUTTON_TITLE" = "Lägg upp en länk";
 
-"WHO_TO_FOLLOW_DEVICE_FOLLOW_TOOLTIP_LABEL" = "Bli meddelad när detta konto gör en tweet";
+"WHO_TO_FOLLOW_DEVICE_FOLLOW_TOOLTIP_LABEL" = "Bli meddelad när detta konto gör en Tweet";
 
 "WITHHELD_TWEET_UNDO_BUTTON_ACCESSIBILITY_HINT" = "Ångrar denna retweet";
 
@@ -3600,7 +4165,7 @@
 
 "ADDRESS_BOOK_CONTACTS_SYNCED_LABEL" = "Dina kontakter är synkade";
 
-"ADDRESS_BOOK_FETCH_ERROR_LABEL" = "Något verkar ha gått fel vid försöket att ansluta din adressbok.";
+"ADDRESS_BOOK_FETCH_ERROR_LABEL" = "Något verkar ha gått fel vid försöket att ansluta dina kontakter.";
 
 "ADDRESS_BOOK_FETCH_RETRY_ACTION_LABEL" = "Försök igen";
 
@@ -3620,15 +4185,15 @@
 
 "ADDRESS_BOOK_PERMISSION_PROMPT_ALERT_STYLE_TITLE" = "Vill du ge detta Twitter-konto åtkomst till dina kontakter?";
 
-"ADDRESS_BOOK_PERMISSION_PROMPT_DESCRIPTION_LABEL" = "Kontakter från din adressbok laddas löpande upp till Twitter så att du ska få kontakt med vänner och kunna anpassa innehållet efter dig, t.ex. genom förslag till dig och andra. Du kan stänga av synkronisering och ta bort tidigare uppladdade kontakter i inställningarna. <a href=\"#\">Läs mer</a>";
+"ADDRESS_BOOK_PERMISSION_PROMPT_DESCRIPTION_LABEL" = "Dina kontakter laddas löpande upp till Twitter så att du ska få kontakt med vänner och kunna anpassa innehållet efter dig, t.ex. genom förslag till dig och andra. Du kan stänga av synkronisering och ta bort tidigare uppladdade kontakter i inställningarna. <a href=\"#\">Läs mer</a>";
 
 "ADDRESS_BOOK_PERMISSION_PROMPT_NOT_NOW_LABEL" = "Inte nu";
 
-"ADDRESS_BOOK_PERMISSION_PROMPT_ONE_STEP_PRIMARY_ACCOUNT_SUBTITLE" = "Synka din adressbok med detta Twitter-konto. Oroa dig inte, du kan alltid ändra detta senare.";
+"ADDRESS_BOOK_PERMISSION_PROMPT_ONE_STEP_PRIMARY_ACCOUNT_SUBTITLE" = "Synka dina kontkater med detta Twitter-konto. Oroa dig inte, du kan alltid ändra detta senare.";
 
-"ADDRESS_BOOK_PERMISSION_PROMPT_ONE_STEP_SECONDARY_ACCOUNT_SUBTITLE" = "Uppdatera inställningar för att synka din adressbok med detta Twitter-konto. Oroa dig inte, du kan alltid ändra detta senare.";
+"ADDRESS_BOOK_PERMISSION_PROMPT_ONE_STEP_SECONDARY_ACCOUNT_SUBTITLE" = "Uppdatera inställningar för att synka dina kontakter med detta Twitter-konto. Oroa dig inte, du kan alltid ändra detta senare.";
 
-"ADDRESS_BOOK_PERMISSION_PROMPT_TITLE" = "Anslut din adressbok för att hitta personer du känner på Twitter.";
+"ADDRESS_BOOK_PERMISSION_PROMPT_TITLE" = "Koppla dina kontakter för att hitta personer du känner på Twitter.";
 
 "ADDRESS_BOOK_RECOMMENDATIONS_SECTION_LABEL" = "Rekommenderade";
 
@@ -3848,7 +4413,7 @@
 
 "ATTACHMENT_PHOTO_REORDERING_PHOTO_ACCESSIBILITY_LABEL" = "%1$@, %2$@, %3$@ av %4$@";
 
-"ATTACHMENT_TWEET_ACCESSIBILITY_LABEL" = "Bifogad tweet";
+"ATTACHMENT_TWEET_ACCESSIBILITY_LABEL" = "Bifogad Tweet";
 
 "ATTACHMENT_VIDEO_ACCESSIBILITY_LABEL" = "Video";
 
@@ -4228,7 +4793,7 @@
 
 "BOOKMARKS_ADD_TO_BOOKMARKS_CAROUSEL_LABEL" = "Bokmärk";
 
-"BOOKMARKS_ADD_TO_BOOKMARKS_LABEL" = "Bokmärk tweeten";
+"BOOKMARKS_ADD_TO_BOOKMARKS_LABEL" = "Bokmärk Tweeten";
 
 "BOOKMARKS_ADD_TO_BOOKMARKS_TOOLTIP" = "Spara en Tweet och läs den senare genom att spara den bland dina bokmärken";
 
@@ -5344,15 +5909,15 @@
 
 "COMMUNITY_REVIEW_TWEET_HIDE_TWEET_ACTION" = "Dölj";
 
-"COMMUNITY_REVIEW_TWEET_HID_TWEET_LABEL" = "Du dolde tweeten av %@";
+"COMMUNITY_REVIEW_TWEET_HID_TWEET_LABEL" = "Du dolde Tweeten av %@";
 
 "COMMUNITY_REVIEW_TWEET_KEEP_TWEET_ACTION" = "Behåll";
 
-"COMMUNITY_REVIEW_TWEET_KEPT_TWEET_LABEL" = "Du behöll tweeten av %@";
+"COMMUNITY_REVIEW_TWEET_KEPT_TWEET_LABEL" = "Du behöll Tweeten av %@";
 
 "COMMUNITY_REVIEW_TWEET_OKAY_TWEET_ACTION" = "OK";
 
-"COMMUNITY_REVIEW_TWEET_OKAY_TWEET_LABEL" = "Den anmälda tweeten raderades av upphovsmannen";
+"COMMUNITY_REVIEW_TWEET_OKAY_TWEET_LABEL" = "Den anmälda Tweeten raderades av upphovsmannen";
 
 "COMMUNITY_REVIEW_TWEET_REPORTED_BY_ACCESSIBILITY_HINT" = "Visa individuella rapporter";
 
@@ -5398,7 +5963,7 @@
 
 "COMMUNITY_SEARCH_FOR_COMMUNITIES_SCREEN_TITLE" = "Sök grupper";
 
-"COMMUNITY_SEARCH_FOR_COMMUNITIES_SEARCH_PLACEHOLDER" = "Sök efter en grupp";
+"COMMUNITY_SEARCH_FOR_COMMUNITIES_SEARCH_PLACEHOLDER" = "Hitta en grupp";
 
 "COMMUNITY_SEARCH_TWEETS" = "Sök i gruppen";
 
@@ -5458,7 +6023,7 @@
 
 "COMMUNITY_SHARE_MENU_COPY_LINK_ACTION_LABEL" = "Kopiera länk";
 
-"COMMUNITY_SHARE_MENU_INVITE_ACTION_LABEL" = "Bjud in via DM";
+"COMMUNITY_SHARE_MENU_INVITE_ACTION_LABEL" = "Bjud in via direktmeddelande";
 
 "COMMUNITY_SHARE_MENU_SHARE_VIA_ACTION_LABEL" = "Dela via …";
 
@@ -5540,9 +6105,9 @@
 
 "COMMUNITY_TWEET_HIDDEN_TOMBSTONE_DISPLAY_LABEL" = "En moderator har dolt denna Tweet eftersom den bryter mot en gruppregel";
 
-"COMMUNITY_TWEET_HIDE_TWEET_ACTION_TITLE" = "Dölj tweeten";
+"COMMUNITY_TWEET_HIDE_TWEET_ACTION_TITLE" = "Dölj Tweeten";
 
-"COMMUNITY_TWEET_HIDE_TWEET_REPORT_SCREEN_TITLE" = "Dölj tweeten";
+"COMMUNITY_TWEET_HIDE_TWEET_REPORT_SCREEN_TITLE" = "Dölj Tweeten";
 
 "COMMUNITY_TWEET_MODERATOR_BADGE_LABEL" = "Mod";
 
@@ -5640,7 +6205,7 @@
 
 "COMPOSER_USER_EDUCATION_TITLE" = "Ge dina Tweets\nlite bling";
 
-"COMPOSE_ACCESSIBILITY_LABEL" = "Skriv tweet";
+"COMPOSE_ACCESSIBILITY_LABEL" = "Skriv Tweet";
 
 "COMPOSE_ADD_ALT_TEXT_TOOLTIP_TEXT" = "Beskriv den här bilden för blinda och personer med nedsatt syn";
 
@@ -5652,7 +6217,7 @@
 
 "COMPOSE_CLOSE_ALERT_MESSAGE" = "Du kan spara detta och skicka det senare från dina utkast.";
 
-"COMPOSE_CLOSE_ALERT_TITLE" = "Vill du spara tweeten?";
+"COMPOSE_CLOSE_ALERT_TITLE" = "Vill du spara Tweeten?";
 
 "COMPOSE_CONVERSATION_CONTROL_TOOLTIP_TEXT" = "Välj vilka som får svara på din Tweet.";
 
@@ -5662,7 +6227,7 @@
 
 "COMPOSE_DELETE_TWEET_FROM_TWEETSTORM_ALERT_MESSAGE" = "Om du raderar denna Tweet går innehållet förlorat. Vill du verkligen radera den?";
 
-"COMPOSE_DELETE_TWEET_FROM_TWEETSTORM_ALERT_TITLE" = "Vill du radera tweeten?";
+"COMPOSE_DELETE_TWEET_FROM_TWEETSTORM_ALERT_TITLE" = "Vill du radera Tweeten?";
 
 "COMPOSE_DRAFTS_TOOLTIP_DEFAULT_TEXT" = "Dina utkast finns här";
 
@@ -5736,7 +6301,7 @@
 
 "COMPOSE_TOOLTIP_MEDIA_QUOTE_TWEET" = "Retweeta med en GIF, video eller foton";
 
-"COMPOSE_TWEET_CANCEL_ACTION_LABEL" = "Avbryt tweeten";
+"COMPOSE_TWEET_CANCEL_ACTION_LABEL" = "Avbryt Tweeten";
 
 "COMPOSE_TWEET_CONTINUE_SENDING_ACTION_LABEL" = "Fortsätt skicka";
 
@@ -5748,7 +6313,7 @@
 
 "COMPOSE_TYPEAHEAD_SEARCH_PROMPT_TITLE_LABEL" = "Hitta den du letar efter";
 
-"COMPOSE_VIEW_ADD_LOCATION_ACCESSIBILITY_HINT" = "Bifogar aktuell plats till tweet";
+"COMPOSE_VIEW_ADD_LOCATION_ACCESSIBILITY_HINT" = "Bifogar aktuell plats till Tweet";
 
 "COMPOSE_VIEW_ADD_PHOTO_OR_VIDEO_ACCESSIBILITY_HINT" = "Växlar mellan fotobiblioteket och tangentbordet";
 
@@ -5784,9 +6349,9 @@
 
 "COMPOSE_VIEW_ALT_TEXT_PROMPT_LABEL_SINGLE" = "Glöm inte att göra bilden tillgänglig";
 
-"COMPOSE_VIEW_BOOST_ACCESSIBILITY_HINT" = "Öppna alternativlistan för att boosta tweeten";
+"COMPOSE_VIEW_BOOST_ACCESSIBILITY_HINT" = "Öppna alternativlistan för att boosta Tweeten";
 
-"COMPOSE_VIEW_BOOST_ACCESSIBILITY_LABEL" = "Boosta tweeten";
+"COMPOSE_VIEW_BOOST_ACCESSIBILITY_LABEL" = "Boosta Tweeten";
 
 "COMPOSE_VIEW_CAMERA_BUTTON_ACCESSIBILITY_HINT" = "Öppnar kameran";
 
@@ -5794,9 +6359,9 @@
 
 "COMPOSE_VIEW_CHARACTERS_REMAINING_ACCESSIBILITY_LABEL" = "Tecken kvar";
 
-"COMPOSE_VIEW_DELETE_TWEET_ACCESSIBILITY_HINT" = "Raderar tweeten från tråden.";
+"COMPOSE_VIEW_DELETE_TWEET_ACCESSIBILITY_HINT" = "Raderar Tweeten från tråden.";
 
-"COMPOSE_VIEW_DELETE_TWEET_ACCESSIBILITY_LABEL" = "Radera tweeten";
+"COMPOSE_VIEW_DELETE_TWEET_ACCESSIBILITY_LABEL" = "Radera Tweeten";
 
 "COMPOSE_VIEW_DRAFTS_ACCESSIBILITY_HINT" = "Öppnar sparade Tweet-utkast";
 
@@ -5882,7 +6447,7 @@
 
 "COMPOSITION_EXTENSION_SEND_TWEET_ERROR_LABEL" = "Tweeten gick inte att skicka och har sparats som ett utkast.";
 
-"COMPOSITION_EXTENSION_SEND_TWEET_ERROR_TITLE" = "Det gick inte att skicka tweeten";
+"COMPOSITION_EXTENSION_SEND_TWEET_ERROR_TITLE" = "Det gick inte att skicka Tweeten";
 
 "COMPOSITION_SENDING_TWEET_TOAST_NOTIFICATION_MESSAGE" = "Skickar …";
 
@@ -5898,7 +6463,7 @@
 
 "COMPOSITION_SEND_TWEET_ERROR_DUPLICATE_MESSAGE" = "Oj! Du har redan sagt det.";
 
-"COMPOSITION_SEND_TWEET_ERROR_LABEL" = "Din tweet kunde inte skickas just nu och har därför sparats som ett utkast. Vänligen prova att skicka det igen senare.";
+"COMPOSITION_SEND_TWEET_ERROR_LABEL" = "Din Tweet kunde inte skickas just nu och har därför sparats som ett utkast. Vänligen prova att skicka det igen senare.";
 
 "COMPOSITION_SEND_TWEET_ERROR_REPLY_TO_TWEET_NOT_FOUND_MESSAGE" = "Du försökte svara på en Tweet som har raderats eller som du inte kan se.";
 
@@ -6066,7 +6631,7 @@
 
 "CONVERSATION_CONTROL_TIMELINE_TEXT_USER_CAN_REPLY" = "Du kan svara på denna konversation";
 
-"CONVERSATION_MODULE_SHOW_MORE_REPLIES_ACCESSIBILITY_LABEL_FORMAT" = "Visa fler svar på tweeten av %@";
+"CONVERSATION_MODULE_SHOW_MORE_REPLIES_ACCESSIBILITY_LABEL_FORMAT" = "Visa fler svar på Tweeten av %@";
 
 "CONVERSATION_MODULE_SHOW_MORE_REPLIES_LABEL" = "Visa fler svar";
 
@@ -7124,7 +7689,7 @@
 
 "DELETED_AUDIO_ERROR_MESSAGE" = "Det här ljudet har raderats.";
 
-"DELETED_TWEET_ERROR_MESSAGE" = "Denna tweet har blivit raderad.";
+"DELETED_TWEET_ERROR_MESSAGE" = "Denna Tweet har blivit raderad.";
 
 "DELETED_VIDEO_ERROR_MESSAGE" = "Denna video har raderats.";
 
@@ -7132,9 +7697,9 @@
 
 "DELETE_LAST_ACTION_LABEL" = "Radera senaste";
 
-"DELETE_TWEET_ACTION_LABEL" = "Radera tweet";
+"DELETE_TWEET_ACTION_LABEL" = "Radera Tweet";
 
-"DELETE_TWEET_CONFIRMATION_MESSAGE" = "Är du säker på att du vill radera denna tweet?";
+"DELETE_TWEET_CONFIRMATION_MESSAGE" = "Är du säker på att du vill radera denna Tweet?";
 
 "DELETE_TWEET_SUCCESS_MESSAGE" = "Din Tweet har raderats";
 
@@ -7272,7 +7837,7 @@
 
 "DIRECT_MESSAGES_RECEIVE_FROM_ANYONE_SETTING_DESCRIPTION" = "Låt folk som du inte följer skicka meddelandeförfrågningar till dig och lägga till dig i gruppkonversationer. Du måste acceptera begäran för att kunna svara på deras meddelanden. %@";
 
-"DIRECT_MESSAGES_RECEIVE_FROM_ANYONE_SETTING_TITLE" = "Tillåt meddelandeförfrågningar från alla";
+"DIRECT_MESSAGES_RECEIVE_FROM_ANYONE_SETTING_TITLE" = "Alla";
 
 "DIRECT_MESSAGES_REPLY_CONTENT_TYPE_ATTACHMENT" = "Bilaga";
 
@@ -7576,7 +8141,7 @@
 
 "DIRECT_MESSAGE_ENTRY_ADDED_YOU_TO_GROUP_FORMAT" = "%@ lade till dig";
 
-"DIRECT_MESSAGE_ENTRY_ATTACHMENT_DETAILS_ACCESSIBILITY_LABEL_TEMPLATE" = "bifogad tweet: {{tweet}}";
+"DIRECT_MESSAGE_ENTRY_ATTACHMENT_DETAILS_ACCESSIBILITY_LABEL_TEMPLATE" = "bifogad Tweet: {{Tweet}}";
 
 "DIRECT_MESSAGE_ENTRY_ATTACHMENT_GIF_ACCESSIBILITY_LABEL" = "Bifogad GIF";
 
@@ -7756,25 +8321,25 @@
 
 "DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_BY_PERSPECTIVAL_USER" = "Du skickade din egen Tweet";
 
-"DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_BY_USER_FORMAT" = "Du skickade tweeten av %1$@";
+"DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_BY_USER_FORMAT" = "Du skickade Tweeten av %1$@";
 
-"DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_NAMED_USER_FORMAT" = "%1$@ skickade tweeten av %2$@";
+"DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_NAMED_USER_FORMAT" = "%1$@ skickade Tweeten av %2$@";
 
 "DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_NAMED_USER_SHARED_PERSPECTIVAL_TWEET" = "%1$@ skickade din Tweet";
 
-"DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_OTHER_USER_FORMAT" = "Skickade tweeten av %1$@ till dig";
+"DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_OTHER_USER_FORMAT" = "Skickade Tweeten av %1$@ till dig";
 
 "DIRECT_MESSAGE_INBOX_CELL_TWEET_ONLY_OTHER_USER_SHARED_PERSPECTIVAL_TWEET" = "Skickade din egen Tweet till dig";
 
 "DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_BY_PERSPECTIVAL_USER_FORMAT" = "Du skickade din egen Tweet: %1$@";
 
-"DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_BY_USER_FORMAT" = "Du skickade tweeten av %1$@: %2$@";
+"DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_BY_USER_FORMAT" = "Du skickade Tweeten av %1$@: %2$@";
 
-"DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_NAMED_USER_FORMAT" = "%1$@ skickade tweeten av %2$@: %3$@";
+"DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_NAMED_USER_FORMAT" = "%1$@ skickade Tweeten av %2$@: %3$@";
 
 "DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_NAMED_USER_SHARED_PERSPECTIVAL_TWEET_FORMAT" = "%1$@ skickade din Tweet: %2$@";
 
-"DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_OTHER_USER_FORMAT" = "Skickade tweeten av %1$@ till dig: %2$@";
+"DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_OTHER_USER_FORMAT" = "Skickade Tweeten av %1$@ till dig: %2$@";
 
 "DIRECT_MESSAGE_INBOX_CELL_TWEET_TEXT_OTHER_USER_SHARED_PERSPECTIVAL_TWEET_FORMAT" = "Skickade din Tweet till dig: %1$@";
 
@@ -7934,7 +8499,7 @@
 
 "DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_THEM_ON_PHOTO_PREVIEW_FORMAT" = "%1$@ reagerade på fotot av %2$@ med %3$@";
 
-"DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_THEM_ON_TWEET_PREVIEW_FORMAT" = "%1$@ reagerade på tweeten av %2$@ med %3$@";
+"DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_THEM_ON_TWEET_PREVIEW_FORMAT" = "%1$@ reagerade på Tweeten av %2$@ med %3$@";
 
 "DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_THEM_ON_VIDEO_PREVIEW_FORMAT" = "%1$@ reagerade på videon av %2$@ med %3$@";
 
@@ -7948,7 +8513,7 @@
 
 "DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_YOU_ON_PHOTO_PREVIEW_FORMAT" = "Du reagerade på fotot av %1$@ med %2$@";
 
-"DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_YOU_ON_TWEET_PREVIEW_FORMAT" = "Du reagerade på tweeten av %1$@ med %2$@";
+"DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_YOU_ON_TWEET_PREVIEW_FORMAT" = "Du reagerade på Tweeten av %1$@ med %2$@";
 
 "DIRECT_MESSAGE_REACTION_WAS_CREATED_EVENT_IN_GROUP_BY_YOU_ON_VIDEO_PREVIEW_FORMAT" = "Du reagerade på videon av %1$@ med %2$@";
 
@@ -8002,7 +8567,7 @@
 
 "DIRECT_MESSAGE_SAVE_PHOTO_ERROR_MESSAGE" = "Det gick inte att spara";
 
-"DIRECT_MESSAGE_SEARCH_BAR_PLACEHOLDER_TEXT" = "Sök direktmeddelanden";
+"DIRECT_MESSAGE_SEARCH_BAR_PLACEHOLDER_TEXT" = "Hitta ett direktmeddelande";
 
 "DIRECT_MESSAGE_SEARCH_RESULT_TYPE_ALL" = "Alla";
 
@@ -8018,7 +8583,7 @@
 
 "DIRECT_MESSAGE_SEND_TWEET_VIA_DIRECT_MESSAGE_ACTION_ACCESSIBILITY_LABEL" = "Skicka via direktmeddelande";
 
-"DIRECT_MESSAGE_SETTINGS_TITLE" = "Inställningar för meddelanden";
+"DIRECT_MESSAGE_SETTINGS_TITLE" = "Meddelanden";
 
 "DIRECT_MESSAGE_SHARE_TWEET_ADDRESSING_BAR_PLACEHOLDER_TEXT" = "Sök efter personer och grupper";
 
@@ -8096,7 +8661,7 @@
 
 "DISABLED_ENGAGEMENT_EDUCATION_SHEET_RETWEET_TITLE" = "Varför kan du inte retweeta detta?";
 
-"DISABLED_LABEL" = "Inaktiverat";
+"DISABLED_LABEL" = "Av";
 
 "DISABLE_LIVE_TWEET_NOTIFICATIONS_ALERT_TITLE" = "Stäng av livevideonotiser";
 
@@ -8242,7 +8807,7 @@
 
 "DRAG_DROP_DM_INDICATION_VIEW_DROP_TEXT_MESSAGE" = "Lägg till texten som du vill dela i ett direktmeddelande.";
 
-"DRAG_DROP_DM_INDICATION_VIEW_DROP_TWEET_MESSAGE" = "Lägg till tweeten som du vill dela i ett direktmeddelande.";
+"DRAG_DROP_DM_INDICATION_VIEW_DROP_TWEET_MESSAGE" = "Lägg till Tweeten som du vill dela i ett direktmeddelande.";
 
 "DRAG_DROP_DM_INDICATION_VIEW_DROP_URL_MESSAGE" = "Lägg till länken som du vill dela i ett direktmeddelande.";
 
@@ -8372,11 +8937,11 @@
 
 "EDIT_PROFILE_WEBSITE_INVALID_URL_ERROR" = "Din webbplats måste vara en giltig URL.";
 
-"EDIT_TWEET_ACTION_LABEL" = "Redigera tweeten";
+"EDIT_TWEET_ACTION_LABEL" = "Redigera Tweeten";
 
 "EDIT_TWEET_DELETE_TWEET_ALERT_CONFIRMATION_MESSAGE" = "Det här gör att alla versioner av denna Tweet raderas från din profil, från tidslinjen i eventuella konton som följer dig, samt från Twitters sökresultat. Detta går inte att ångra.";
 
-"EDIT_TWEET_DELETE_TWEET_ALERT_TITLE" = "Vill du radera tweeten?";
+"EDIT_TWEET_DELETE_TWEET_ALERT_TITLE" = "Vill du radera Tweeten?";
 
 "EDIT_TWEET_DETAILS_FOOTER_LABEL_STRING" = "Senast redigerad";
 
@@ -8410,9 +8975,9 @@
 
 "EDIT_TWEET_TIMER_COMPLETED_ALERT_TITLE_STRING" = "Redigeringstiden är över";
 
-"EDIT_TWEET_TIMER_TIME_REMAINING_ACCESSIBILITY_ANNOUNCEMENT_FORMAT" = "%@ kvar för att redigera tweeten";
+"EDIT_TWEET_TIMER_TIME_REMAINING_ACCESSIBILITY_ANNOUNCEMENT_FORMAT" = "%@ kvar för att redigera Tweeten";
 
-"EDIT_TWEET_TIMER_TIME_REMAINING_ACCESSIBILITY_HINT" = "Tid kvar för att redigera tweeten";
+"EDIT_TWEET_TIMER_TIME_REMAINING_ACCESSIBILITY_HINT" = "Tid kvar för att redigera Tweeten";
 
 "EDIT_TWEET_UNAVAILABLE_ACTION_LABEL" = "Varför kan jag inte redigera?";
 
@@ -8478,7 +9043,7 @@
 
 "EMPTY_TIMELINE_TEXT" = "Välkommen till din tidslinje";
 
-"ENABLED_LABEL" = "Aktiverat";
+"ENABLED_LABEL" = "På";
 
 "ENABLE_REPLY_FOLLOW_NOTIFICATIONS_ALERT_MESSAGE" = "Få notiser om Tweets och svar från %@ och andra som du har valt.";
 
@@ -8746,7 +9311,7 @@
 
 "FLEETS_COMPOSE_TEXT_BACKGROUND_DISABLED_ACCESSIBILITY_HINT" = "Använder den valda färgen som textbakgrundsfärg";
 
-"FLEETS_COMPOSE_TEXT_BACKGROUND_DISABLED_ACCESSIBILITY_VALUE" = "Inaktiverat";
+"FLEETS_COMPOSE_TEXT_BACKGROUND_DISABLED_ACCESSIBILITY_VALUE" = "Av";
 
 "FLEETS_COMPOSE_TEXT_BACKGROUND_ENABLED_ACCESSIBILITY_HINT" = "Använder den valda färgen som textfärg";
 
@@ -8852,7 +9417,7 @@
 
 "FLEETS_STOP_SUBTITLE_LIVE_ACTION_SHEET_LABEL" = "Inspelningen sparas på din enhet";
 
-"FLEETS_TWEET_ACCESSIBILITY_LABEL_TEMPLATE" = "Tweet från {{tweet}}";
+"FLEETS_TWEET_ACCESSIBILITY_LABEL_TEMPLATE" = "Tweet från {{Tweet}}";
 
 "FOCUSED_TIMELINE_ACTIONS_COMPLETION_TOAST_DETAIL_LABEL" = "Ju mer du gillar, desto bättre blir tidslinjen. Fortsätt gilla saker du tycker om.";
 
@@ -9170,7 +9735,7 @@
 
 "HIDDEN_REPLIES_ICON_AUTHOR_TOOLTIP" = "Folk kan visa svar som du har dolt";
 
-"HIDDEN_REPLIES_ICON_CONSUMPTION_ACCESSIBILITY_HINT" = "Visa svar på tweeten som upphovsmannen har dolt";
+"HIDDEN_REPLIES_ICON_CONSUMPTION_ACCESSIBILITY_HINT" = "Visa svar på Tweeten som upphovsmannen har dolt";
 
 "HIDDEN_REPLIES_TIMELINE_AUTHOR_DESCRIPTION" = "Du har dolt dessa svar.";
 
@@ -9192,7 +9757,7 @@
 
 "HIDE_REPLY_ACTION_LABEL" = "Dölj svar";
 
-"HIDE_REPLY_AUTHOR_EDUCATION_DESCRIPTION_FORMAT" = "För att ge dig mer kontroll över de samtal du inleder kan Tweet-författare dölja svar på sina Tweets.\n\nDolda svar flyttas till en annan sida, och alla kan se dem genom att välja ikonen för dolda svar på tweeten. %@";
+"HIDE_REPLY_AUTHOR_EDUCATION_DESCRIPTION_FORMAT" = "För att ge dig mer kontroll över de samtal du inleder kan Tweet-författare dölja svar på sina Tweets.\n\nDolda svar flyttas till en annan sida, och alla kan se dem genom att välja ikonen för dolda svar på Tweeten. %@";
 
 "HIDE_REPLY_AUTHOR_EDUCATION_TITLE_LABEL" = "Döljer svar på dina Tweets";
 
@@ -9204,9 +9769,9 @@
 
 "HIDE_REPLY_EDUCATION_CTA_LABEL" = "Dölj svar";
 
-"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_HIDDEN" = "Svaret har dolts från tweeten";
+"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_HIDDEN" = "Svaret har dolts från Tweeten";
 
-"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_UNHIDDEN" = "Svaret har slutat döljas från tweeten";
+"HIDE_REPLY_TOAST_NOTIFICATION_REPLY_UNHIDDEN" = "Svaret har slutat döljas från Tweeten";
 
 "HIDE_REPLY_TOOLTIP" = "Dölj svar på dina Tweets";
 
@@ -9292,7 +9857,7 @@
 
 "IMMERSIVE_EXPLORE_ONBOARDING_SWIPE_UP_4" = "Svep om du vill se mer";
 
-"IMMERSIVE_EXPLORE_PREVIOUS_TWEET_ACCESSIBILITY_LABEL" = "Föregående tweet";
+"IMMERSIVE_EXPLORE_PREVIOUS_TWEET_ACCESSIBILITY_LABEL" = "Föregående Tweet";
 
 "IMMERSIVE_EXPLORE_TRENDING_PERSONALIZED_MENU_PERSONALIZED_OPTION" = "Anpassad";
 
@@ -9350,7 +9915,7 @@
 
 "KEYBOARD_SHORTCUT_CLOSE" = "Stäng";
 
-"KEYBOARD_SHORTCUT_COPY_TWEET_LINK" = "Kopiera länken till tweeten";
+"KEYBOARD_SHORTCUT_COPY_TWEET_LINK" = "Kopiera länken till Tweeten";
 
 "KEYBOARD_SHORTCUT_COPY_TWEET_TEXT" = "Kopiera Tweet-texten";
 
@@ -9402,7 +9967,7 @@
 
 "KEYBOARD_SHORTCUT_SEARCH" = "Sök";
 
-"KEYBOARD_SHORTCUT_SEND_TWEET" = "Skicka tweeten";
+"KEYBOARD_SHORTCUT_SEND_TWEET" = "Skicka Tweeten";
 
 "KEYBOARD_SHORTCUT_SETTINGS" = "Inställningar";
 
@@ -9434,7 +9999,7 @@
 
 "LEAVE_CONVERSATION_ALERT_ACTION_LEAVE" = "Lämna";
 
-"LEAVE_CONVERSATION_ALERT_VIEW_MESSAGE" = "Detta tar bort taggen med ditt användarnamn från den ursprungliga tweeten och alla svar.\n\nFolk kommer inte att kunna nämna dig igen i samtalet, och du får inga fler notiser.";
+"LEAVE_CONVERSATION_ALERT_VIEW_MESSAGE" = "Detta tar bort taggen med ditt användarnamn från den ursprungliga Tweeten och alla svar.\n\nFolk kommer inte att kunna nämna dig igen i samtalet, och du får inga fler notiser.";
 
 "LEAVE_CONVERSATION_ALERT_VIEW_TITLE" = "Vill du lämna samtalet?";
 
@@ -9458,7 +10023,7 @@
 
 "LEAVE_CONVERSATION_PROMPT_TITLE" = "Lämna detta samtal";
 
-"LEAVE_CONVERSATION_PROMPT_UNTAG_USERNAME_SUBTITLE" = "Ditt användarnamn är kvar, men det kommer att avtaggas från den ursprungliga tweeten och alla svar.";
+"LEAVE_CONVERSATION_PROMPT_UNTAG_USERNAME_SUBTITLE" = "Ditt användarnamn är kvar, men det kommer att avtaggas från den ursprungliga Tweeten och alla svar.";
 
 "LEAVE_CONVERSATION_PROMPT_UNTAG_USERNAME_TITLE" = "Avtagga ditt användarnamn";
 
@@ -9478,11 +10043,11 @@
 
 "LIKED_BY_BACK_TITLE" = "Gilla-markeringar";
 
-"LIKED_BY_TITLE" = "Gillat av";
+"LIKED_BY_TITLE" = "gilla-markeringar";
 
 "LIKES_COUNT_ACCESSIBILITY_HINT" = "Visar antalet gilla-markeringar";
 
-"LIKES_COUNT_FORMAT" = "%@ gillamarkeringar";
+"LIKES_COUNT_FORMAT" = "%@ gilla-markeringar";
 
 "LIKE_ACTION_ACCESSIBILITY_LABEL" = "Gilla";
 
@@ -9496,7 +10061,7 @@
 
 "LIKE_COUNT_SINGULAR_TITLE_FORMAT" = "En gillamarkering";
 
-"LIKE_COUNT_TITLE_FORMAT" = "%@ gillamarkeringar";
+"LIKE_COUNT_TITLE_FORMAT" = "%@ gilla-markeringar";
 
 "LIKE_TWEET_CONFIRM_ACTION_LABEL" = "Gilla";
 
@@ -9694,9 +10259,9 @@
 
 "LIST_REMOVE_BANNER_BUTTON_LABEL" = "Ta bort listans banner";
 
-"LIST_SEARCH_MANAGEMENT_PAGE_PLACEHOLDER_TEXT" = "Sök listor";
+"LIST_SEARCH_MANAGEMENT_PAGE_PLACEHOLDER_TEXT" = "Hitta en lista";
 
-"LIST_SEARCH_PLACEHOLDER_TEXT" = "Sök listor";
+"LIST_SEARCH_PLACEHOLDER_TEXT" = "Hitta en lista";
 
 "LIST_SHARE_LABEL" = "Tweeta detta";
 
@@ -9818,7 +10383,7 @@
 
 "LIVE_EVENT_ERROR_GEOBLOCKED_LOCATION_DISABLED_GLOBAL_LABEL" = "Den här sändningen är bara tillgänglig i vissa områden. Slå på platsinställningarna på enheten och se om du kan se den.";
 
-"LIVE_EVENT_ERROR_GEOBLOCKED_LOCATION_DISABLED_LOCAL_CTA" = "Öppna inställningarna";
+"LIVE_EVENT_ERROR_GEOBLOCKED_LOCATION_DISABLED_LOCAL_CTA" = "Öppna Inställningar";
 
 "LIVE_EVENT_ERROR_GEOBLOCKED_LOCATION_DISABLED_LOCAL_LABEL" = "Den här sändningen är bara tillgänglig i vissa områden. Slå på platsinställningarna och se om du kan se den.";
 
@@ -10132,7 +10697,7 @@
 
 "MAIL_LINK_ACTION_LABEL" = "E-posta länk";
 
-"MAIL_LINK_CONTEXT" = "från <a href=\"%2$@\">tweeten</a> av %1$@";
+"MAIL_LINK_CONTEXT" = "från <a href=\"%2$@\">Tweeten</a> av %1$@";
 
 "MAIL_LINK_SUBJECT_NO_TITLE_LABEL_FORMAT" = "%1$@ delade en länk med dig";
 
@@ -10142,7 +10707,7 @@
 
 "MAIL_PHOTO_SUBJECT_LABEL" = "Foto från Twitter";
 
-"MAIL_TWEET_ACTION_LABEL" = "E-posta tweet";
+"MAIL_TWEET_ACTION_LABEL" = "E-posta Tweet";
 
 "MAIL_TWEET_SUBJECT_FORMAT" = "Tweet av %1$@ på Twitter";
 
@@ -10258,7 +10823,7 @@
 
 "MUTE_ACCESSIBILITY_HINT" = "Ignorerar denna användare.";
 
-"MUTE_ACCESSIBILITY_LABEL" = "Ljud av";
+"MUTE_ACCESSIBILITY_LABEL" = "Ignorera";
 
 "MUTE_ACTION_LABEL" = "Ignorera %@";
 
@@ -11078,7 +11643,7 @@
 
 "PINNED_TWEET_PIN_CONFIRMATION_BUTTON_LABEL" = "Nåla fast";
 
-"PINNED_TWEET_PIN_CONFIRMATION_MESSAGE" = "Detta kommer visas överst på din profil och ersätta din tidigare fastnålade tweet. Är du säker?";
+"PINNED_TWEET_PIN_CONFIRMATION_MESSAGE" = "Detta kommer visas överst på din profil och ersätta din tidigare fastnålade Tweet. Är du säker?";
 
 "PINNED_TWEET_PIN_CONFIRMATION_TITLE" = "Nåla fast denna Tweet";
 
@@ -11266,7 +11831,7 @@
 
 "PREFERENCES_AX_MAGIC_TAP_ACCESSIBILITY_HINT" = "Tilldelar denna genväg med två fingrar en ofta utförd åtgärd.";
 
-"PREFERENCES_AX_MAGIC_TAP_COMPOSE" = "Skapa tweet";
+"PREFERENCES_AX_MAGIC_TAP_COMPOSE" = "Skapa Tweet";
 
 "PREFERENCES_AX_MAGIC_TAP_LABEL" = "Magisk klickåtgärd";
 
@@ -11860,15 +12425,15 @@
 
 "PROFILE_SCROLLING_ACCESSIBILITY_ANNOUNCEMENT_FORMAT" = "Objekt %1$d till %2$d av %3$d";
 
-"PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_ONE_FORMAT" = "Följdes av %1$@";
+"PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_ONE_FORMAT" = "Följs av %1$@";
 
 "PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_THREE_AND_MORE_FORMAT" = "Följs av %1$@, %2$@, %3$@ och %4$@ till";
 
 "PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_THREE_AND_ONE_MORE_FORMAT" = "Följs av %1$@, %2$@, %3$@ och en till";
 
-"PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_THREE_FORMAT" = "Följdes av %1$@, %2$@ och %3$@";
+"PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_THREE_FORMAT" = "Följs av %1$@, %2$@ och %3$@";
 
-"PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_TWO_FORMAT" = "Följdes av %1$@ och %2$@";
+"PROFILE_SOCIAL_CONTEXT_FOLLOWED_BY_TWO_FORMAT" = "Följs av %1$@ och %2$@";
 
 "PROFILE_SUPPORT_BANDCAMP_ACTION_LABEL" = "Skicka via Bandcamp";
 
@@ -12368,7 +12933,7 @@
 
 "QUICK_PROMOTE_SPEND_AMOUNT_LABEL" = "Hur mycket vill du spendera?";
 
-"QUICK_PROMOTE_START_PROMOTION_BUTTON_TEXT" = "Boosta tweeten";
+"QUICK_PROMOTE_START_PROMOTION_BUTTON_TEXT" = "Boosta Tweeten";
 
 "QUICK_PROMOTE_TARGETING_DATE" = "Din boostade Tweet kommer att visas tills %1$@";
 
@@ -12412,7 +12977,7 @@
 
 "QUICK_PROMOTE_TARGETING_TITLE" = "Vilka vill du nå?";
 
-"QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT" = "Genom att klicka på Boosta tweeten accepterar du %@.";
+"QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT" = "Genom att klicka på Boosta Tweeten accepterar du %@.";
 
 "QUICK_PROMOTE_TERMS_AND_CONDITIONS_FORMAT_V2" = "Genom att klicka på Tweeta med boost accepterar du %@.";
 
@@ -12440,7 +13005,7 @@
 
 "QUOTE_TWEET_ACCESSIBILITY_LABEL" = "%1$@ citerade %2$@ och tillade %3$@";
 
-"QUOTE_TWEET_ACTION_SIMPLE_LABEL" = "Citat-tweet";
+"QUOTE_TWEET_ACTION_SIMPLE_LABEL" = "Citat-Tweet";
 
 "QUOTE_TWEET_COUNT_PLURAL_FORMAT" = "%@ citat";
 
@@ -12620,7 +13185,7 @@
 
 "RETWEETED_BY_BACK_TITLE" = "Retweets";
 
-"RETWEETED_BY_TITLE" = "Retweetad av";
+"RETWEETED_BY_TITLE" = "Retweets";
 
 "RETWEETS_COUNT_ACCESSIBILITY_HINT" = "Visar Retweets";
 
@@ -12890,7 +13455,7 @@
 
 "SEARCH_SETTINGS_HINT_LABEL_TEXT" = "Testa att söka efter lösenordsåterställning, notiser osv.";
 
-"SEARCH_SETTINGS_LABEL_TITLE" = "Sökinställningar";
+"SEARCH_SETTINGS_LABEL_TITLE" = "Hitta en inställning";
 
 "SEARCH_TWITTER_LABEL" = "Sök på Twitter";
 
@@ -12994,7 +13559,7 @@
 
 "SENSITIVE_MEDIA_SETTINGS_TITLE" = "Känsliga medier";
 
-"SENSITIVE_MEDIA_WARNING_EDITOR_BUTTON_ACCESSIBILITY_LABEL" = "Märk tweeten som känsligt material.";
+"SENSITIVE_MEDIA_WARNING_EDITOR_BUTTON_ACCESSIBILITY_LABEL" = "Märk Tweeten som känsligt material.";
 
 "SENSITIVE_MEDIA_WARNING_EDITOR_EDUCATION_DETAIL" = "Välj en kategori så fäster vi en innehållsvarning på denna Tweet. Detta hjälper andra att undvika innehåll som de vill slippa se.";
 
@@ -13134,7 +13699,7 @@
 
 "SETTINGS_CONTACTS_SYNCHRONIZATION_LABEL" = "Kontakter";
 
-"SETTINGS_CONTACTS_SYNCHRONIZATION_OPT_IN_DESCRIPTION" = "Kontakter från din adressbok laddas löpande upp till Twitter så att du ska få kontakt med vänner och kunna anpassa innehållet efter dig, t.ex. genom förslag till dig och andra. Även om du slår av synkroniseringen tas inte tidigare uppladdade kontakter bort. %@";
+"SETTINGS_CONTACTS_SYNCHRONIZATION_OPT_IN_DESCRIPTION" = "Dina kontakter laddas löpande upp till Twitter så att du ska få kontakt med vänner och kunna anpassa innehållet efter dig, t.ex. genom förslag till dig och andra. Även om du slår av synkroniseringen tas inte tidigare uppladdade kontakter bort. %@";
 
 "SETTINGS_CONTACTS_SYNCHRONIZATION_OPT_IN_LABEL" = "Synkronisera kontakter från adressbok";
 
@@ -13456,7 +14021,7 @@
 
 "SHARE_EXT_TOO_MUCH_MEDIA_MESSAGE" = "Du kan bara skicka ett foto i taget.";
 
-"SHARE_EXT_TWEET_FAILED_TITLE" = "Kunde inte skicka tweet";
+"SHARE_EXT_TWEET_FAILED_TITLE" = "Kunde inte skicka Tweet";
 
 "SHARE_EXT_VIDEO_TOO_LONG_MESSAGE_FORMAT" = "Välj en video som är högst %@ lång.";
 
@@ -13494,9 +14059,9 @@
 
 "SHARE_TO_SNAP_FOOTER_LABEL" = "Svep upp om du vill se fler svar";
 
-"SHARE_TWEET_BUTTON_LABEL" = "Dela tweeten";
+"SHARE_TWEET_BUTTON_LABEL" = "Dela Tweeten";
 
-"SHARE_TWEET_INSTEAD_LABEL" = "Vill du dela tweeten i stället?";
+"SHARE_TWEET_INSTEAD_LABEL" = "Vill du dela Tweeten i stället?";
 
 "SHARE_TWEET_LABEL" = "Dela Tweet";
 
@@ -13776,7 +14341,7 @@
 
 "SUBSCRIPTION_EDIT_TWEET_DESCRIPTION" = "Redigera Tweets upp till fem gånger inom en halvtimme efter att ha tweetat. Redigeringshistoriken går att se av alla som vill se hur en Tweet har utvecklats.";
 
-"SUBSCRIPTION_EDIT_TWEET_TITLE" = "Redigera tweeten";
+"SUBSCRIPTION_EDIT_TWEET_TITLE" = "Redigera Tweeten";
 
 "SUBSCRIPTION_ERROR_PAYMENTS_UNAVAILABLE" = "Köp från den här enheten har inaktiverats.";
 
@@ -13818,7 +14383,7 @@
 
 "SUBSCRIPTION_FEATURES_EARLY_ACCESS_UNDO_DETAILS" = "Ställ in en timer för att ångra skickade Tweets och välj vilka typer av Tweets du vill ångra.";
 
-"SUBSCRIPTION_FEATURES_EARLY_ACCESS_UNDO_TITLE" = "Ångra tweeten";
+"SUBSCRIPTION_FEATURES_EARLY_ACCESS_UNDO_TITLE" = "Ångra Tweeten";
 
 "SUBSCRIPTION_FEATURES_EXTRAS_APP_ICONS_DETAILS" = "Välj en exklusiv appikon till enheten. Ändra den när som helst.";
 
@@ -14046,7 +14611,7 @@
 
 "SUBSCRIPTION_UNDO_SEND_DURATION_LABEL" = "%li sekunder";
 
-"SUBSCRIPTION_UNDO_SEND_NAVIGATE_TO_TWEET_DETAILS_TITLE" = "Visa tweeten efter att ha skickat den";
+"SUBSCRIPTION_UNDO_SEND_NAVIGATE_TO_TWEET_DETAILS_TITLE" = "Visa Tweeten efter att ha skickat den";
 
 "SUBSCRIPTION_UNDO_SEND_ORIGINAL_TWEETS_SETTING_TITLE" = "Originaltweets";
 
@@ -14078,7 +14643,7 @@
 
 "SUBSCRIPTION_UNDO_SEND_UPLOADING_TWEET_TITLE" = "Laddar upp …";
 
-"SUBSCRIPTION_UNDO_SEND_VIEW_TWEET_ACTION_TITLE" = "Visa tweeten";
+"SUBSCRIPTION_UNDO_SEND_VIEW_TWEET_ACTION_TITLE" = "Visa Tweeten";
 
 "SUBSCRIPTION_UPGRADE_BUTTON_TEXT" = "Uppgradera till Twitter Blue";
 
@@ -14756,7 +15321,7 @@
 
 "TRANSLATE_PROFILE_BIO_BUTTON_TITLE" = "Översätt biografin";
 
-"TRANSLATE_TWEET_BUTTON_TITLE" = "Översätt tweeten";
+"TRANSLATE_TWEET_BUTTON_TITLE" = "Översätt Tweeten";
 
 "TRANSLATION_SOURCE_GOOGLE" = "Google";
 
@@ -14892,7 +15457,7 @@
 
 "TWEETS_BULK_TOMBSTONE_FAILURE_LABEL" = "Tweeten gick inte att läsa in.";
 
-"TWEETS_COUNT_SINGULAR_TITLE_FORMAT" = "en tweet";
+"TWEETS_COUNT_SINGULAR_TITLE_FORMAT" = "en Tweet";
 
 "TWEETS_COUNT_TITLE_FORMAT" = "%@ tweets";
 
@@ -15028,7 +15593,7 @@
 
 "TWEET_RETRY_EDIT_LATER_BUTTON" = "Redigera senare";
 
-"TWEET_RETRY_FAILED_MESSAGE_LABEL" = "Vi kunde inte skicka din tweet. Vill du försöka igen eller spara den här tweeten bland utkasten?";
+"TWEET_RETRY_FAILED_MESSAGE_LABEL" = "Vi kunde inte skicka din Tweet. Vill du försöka igen eller spara den här Tweeten bland utkasten?";
 
 "TWEET_RETRY_FAILED_MESSAGE_PLURAL_FORMAT" = "Vi kunde inte skicka %1$tu av dina tweets. Vill du försöka skicka dem igen eller spara dessa %2$tu Tweets bland utkasten?";
 
@@ -15838,7 +16403,7 @@
 
 "VOICE_ROOM_CLIP_NUX_LISTENER_SUBTITLE" = "Hörde du något förbluffande eller löjligt? Skapa ett klipp och dela det.";
 
-"VOICE_ROOM_CLIP_NUX_SETTINGS_BUTTON" = "Öppna inställningarna";
+"VOICE_ROOM_CLIP_NUX_SETTINGS_BUTTON" = "Öppna Inställningar";
 
 "VOICE_ROOM_CLIP_NUX_TITLE" = "Skapa ett klipp av ett ögonblick från ett område";
 
@@ -15970,7 +16535,7 @@
 
 "VOICE_ROOM_CREATION_ACTION_LABEL" = "Börja nu";
 
-"VOICE_ROOM_CREATION_INVITE_SUBTITLE" = "Folk får en inbjudan via DM";
+"VOICE_ROOM_CREATION_INVITE_SUBTITLE" = "Folk får en inbjudan via direktmeddelanden";
 
 "VOICE_ROOM_CREATION_INVITE_TITLE" = "Lägg till talare";
 
@@ -16068,7 +16633,7 @@
 
 "VOICE_ROOM_FEEDBACK_SEND_FEEDBACK_ACTION_SUBTITLE" = "Skicka ett meddelande till arbetslaget så att vi får veta vad du gillade och vad du vill att vi ska förbättra i Områden.";
 
-"VOICE_ROOM_FEEDBACK_SEND_FEEDBACK_ACTION_TITLE" = "Skickade ett DM";
+"VOICE_ROOM_FEEDBACK_SEND_FEEDBACK_ACTION_TITLE" = "Skickade ett direktmeddelande";
 
 "VOICE_ROOM_FEEDBACK_TITLE" = "Kommentera";
 
@@ -16238,7 +16803,7 @@
 
 "VOICE_ROOM_MULTI_SCHEDULED_VIEW_OPTION_SHARE_ACTIVITY" = "Dela via …";
 
-"VOICE_ROOM_MULTI_SCHEDULED_VIEW_OPTION_SHARE_DM" = "Bjud in via DM";
+"VOICE_ROOM_MULTI_SCHEDULED_VIEW_OPTION_SHARE_DM" = "Bjud in via direktmeddelande";
 
 "VOICE_ROOM_MULTI_SCHEDULED_VIEW_OPTION_SHARE_TWEET" = "Dela via Tweet";
 
@@ -16626,7 +17191,7 @@
 
 "VOICE_ROOM_SHARE_SCHEDULED_COPY_LINK_BUTTON" = "Kopiera länk";
 
-"VOICE_ROOM_SHARE_SCHEDULED_DM_BUTTON" = "DM";
+"VOICE_ROOM_SHARE_SCHEDULED_DM_BUTTON" = "Direktmeddelande";
 
 "VOICE_ROOM_SHARE_SCHEDULED_DM_PREFILL" = "Jag planerade nyss in ett område. Vill du få en påminnelse?";
 
@@ -16946,11 +17511,11 @@
 
 "VOICE_ROOM_USER_ACTION_SETTINGS" = "Ändra inställningar";
 
-"VOICE_ROOM_USER_ACTION_SHARE_FREE_TICKETS_VIA_DM" = "Gratisbiljett via DM";
+"VOICE_ROOM_USER_ACTION_SHARE_FREE_TICKETS_VIA_DM" = "Gratisbiljett via direktmeddelande";
 
-"VOICE_ROOM_USER_ACTION_SHARE_REPLAY_VIA_DM" = "Skicka via DM";
+"VOICE_ROOM_USER_ACTION_SHARE_REPLAY_VIA_DM" = "Skicka via direktmeddelande";
 
-"VOICE_ROOM_USER_ACTION_SHARE_VIA_DM" = "Bjud in via DM";
+"VOICE_ROOM_USER_ACTION_SHARE_VIA_DM" = "Bjud in via direktmeddelande";
 
 "VOICE_ROOM_USER_ACTION_SHARE_VIA_LINK" = "Kopiera länk";
 
@@ -17102,7 +17667,7 @@
 
 "VOICE_TAB_SEARCH_EMPTY_UPCOMING_SECTION_LABEL" = "Det finns inga kommande Områden som matchar ”%@”";
 
-"VOICE_TAB_SEARCH_PLACEHOLDER_LABEL" = "Sök efter ett Område";
+"VOICE_TAB_SEARCH_PLACEHOLDER_LABEL" = "Hitta ett Område";
 
 "VOICE_TAB_SEARCH_RESULTS_LIVE_PAGE_TITLE" = "Live";
 
