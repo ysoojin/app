@@ -17,7 +17,7 @@
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Screenshot 1" src="/branding/screenshots/IMG_9189.png">|<img width="1604" alt="Screenshot 2" src="/branding/screenshots/IMG_9190.png">|<img width="1604" alt="Screenshot 3" src="/branding/screenshots/IMG_9191.png">|
-|<img width="1604" alt="Screenshot 4" src="/branding/screenshots/IMG_9201.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9202.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9200.png">|
+|<img width="1604" alt="Screenshot 4" src="/branding/screenshots/IMG_9201.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9202.png">||<img width="1604" alt="Screenshot 6" src="/branding/screenshots/IMG_9200.png">|
 
 
 ## Features
@@ -26,7 +26,7 @@ NeoFreeBird is a modified version of a modern Twitter app with various changes s
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="Screenshot 1" src="/branding/screenshots/IMG_9192.png">|<img width="1604" alt="Screenshot 2" src="/branding/screenshots/IMG_9193.png">|<img width="1604" alt="Screenshot 3" src="/branding/screenshots/IMG_9194.png">|
-|<img width="1604" alt="Screenshot 4" src="/branding/screenshots/IMG_9195.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9196.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9198.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9199.png">|
+|<img width="1604" alt="Screenshot 4" src="/branding/screenshots/IMG_9195.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9196.png">||<img width="1604" alt="Screenshot 6" src="/branding/screenshots/IMG_9198.png">||<img width="1604" alt="Screenshot 8" src="/branding/screenshots/IMG_9199.png">|
 
 
 ## Why NeoFreeBird?
