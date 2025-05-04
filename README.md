@@ -16,8 +16,9 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Screenshot 1" src="/branding/screenshots/IMG_9189.png">|<img width="1604" alt="Screenshot 2" src="/branding/screenshots/IMG_9190.png">|<img width="1604" alt="Screenshot 3" src="/branding/screenshots/IMG_9191.png">|
-|<img width="1604" alt="Screenshot 4" src="/branding/screenshots/IMG_9201.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9202.png">||<img width="1604" alt="Screenshot 6" src="/branding/screenshots/IMG_9200.png">|
+| <img src="/branding/screenshots/IMG_9189.png" alt="Screenshot 1"> | <img src="/branding/screenshots/IMG_9190.png" alt="Screenshot 2"> | <img src="/branding/screenshots/IMG_9191.png" alt="Screenshot 3"> |
+| <img src="/branding/screenshots/IMG_9201.png" alt="Screenshot 4"> | <img src="/branding/screenshots/IMG_9202.png" alt="Screenshot 5"> | <img src="/branding/screenshots/IMG_9200.png" alt="Screenshot 6"> |
+
 
 
 ## Features
@@ -25,9 +26,8 @@ NeoFreeBird is a modified version of a modern Twitter app with various changes s
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="Screenshot 1" src="/branding/screenshots/IMG_9192.png">|<img width="1604" alt="Screenshot 2" src="/branding/screenshots/IMG_9193.png">|<img width="1604" alt="Screenshot 3" src="/branding/screenshots/IMG_9194.png">|
-|<img width="1604" alt="Screenshot 4" src="/branding/screenshots/IMG_9195.png">||<img width="1604" alt="Screenshot 5" src="/branding/screenshots/IMG_9196.png">||<img width="1604" alt="Screenshot 6" src="/branding/screenshots/IMG_9198.png">||<img width="1604" alt="Screenshot 8" src="/branding/screenshots/IMG_9199.png">|
-
+| <img src="/branding/screenshots/IMG_9192.png" alt="Screenshot 1"> | <img src="/branding/screenshots/IMG_9193.png" alt="Screenshot 2"> | <img src="/branding/screenshots/IMG_9194.png" alt="Screenshot 3"> |
+| <img src="/branding/screenshots/IMG_9195.png" alt="Screenshot 4"> | <img src="/branding/screenshots/IMG_9196.png" alt="Screenshot 5"> | <img src="/branding/screenshots/IMG_9198.png" alt="Screenshot 6"> |
 
 ## Why NeoFreeBird?
 NeoFreeBird differs from older Twitter apps or other branding reverts, as it constantly updates its Twitter app in order to keep features working for potential API changes and similar, along with keeping optimizations for newer devices
