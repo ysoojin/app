@@ -26,8 +26,9 @@ NeoFreeBird is a modified version of a modern Twitter app with various changes s
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="/branding/screenshots/IMG_9192.png" alt="Screenshot 1"> | <img src="/branding/screenshots/IMG_9193.png" alt="Screenshot 2"> | <img src="/branding/screenshots/IMG_9194.png" alt="Screenshot 3"> |
-| <img src="/branding/screenshots/IMG_9195.png" alt="Screenshot 4"> | <img src="/branding/screenshots/IMG_9196.png" alt="Screenshot 5"> | <img src="/branding/screenshots/IMG_9198.png" alt="Screenshot 6"> |
+| ![](/branding/screenshots/IMG_9192.png) | ![](/branding/screenshots/IMG_9193.png) | ![](/branding/screenshots/IMG_9194.png) |
+| ![](/branding/screenshots/IMG_9195.png) | ![](/branding/screenshots/IMG_9196.png) | ![](/branding/screenshots/IMG_9198.png) |
+| ![](/branding/screenshots/IMG_9199.png) |   |   |
 
 ## Why NeoFreeBird?
 NeoFreeBird differs from older Twitter apps or other branding reverts, as it constantly updates its Twitter app in order to keep features working for potential API changes and similar, along with keeping optimizations for newer devices
