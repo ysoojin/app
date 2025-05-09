@@ -1,14 +1,12 @@
 <div align="center">
-  <a href="https://github.com/schlagmichdoch/PairDrop">
     <img src="/Branding/Icon.jpg" alt="NeoFreeBird"  width="150" height="150">
-  </a>
  
-  # Twitter, like it should be - the way you want it
+  # Twitter, the way you want it
 
   <p>
-    A modified Twitter app, with branding reverts, an improved BHTwitter and other QoL modifications.
+    A modified Twitter app, with branding reverts, an improved BHTwitter fork, and other QoL modifications.
     <br> 
-    Forked from <a href="https://github.com/nyathea/FreeBird">FreeBird by nyathea</a>.
+    Forked from <a href="https://github.com/nyathea/FreeBird">FreeBird by nyathea</a> and <a href="https://github.com/BandarHL/BHTwitter">BHTwitter by BandarHL</a>.
     <br>
   </p>
 </div>
