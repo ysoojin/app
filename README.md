@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/Branding/Icon.jpg" alt="NeoFreeBird"  width="150" height="150">
+    <img src="./Branding/Icon.jpg" alt="NeoFreeBird"  width="150" height="150">
  
   # Twitter, the way you want it
 
@@ -14,8 +14,8 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="/branding/screenshots/IMG_9189.png" alt="Screenshot 1"> | <img src="/branding/screenshots/IMG_9190.png" alt="Screenshot 2"> | <img src="/branding/screenshots/IMG_9191.png" alt="Screenshot 3"> |
-| <img src="/branding/screenshots/IMG_9201.png" alt="Screenshot 4"> | <img src="/branding/screenshots/IMG_9202.png" alt="Screenshot 5"> | <img src="/branding/screenshots/IMG_9200.png" alt="Screenshot 6"> |
+| <img src="./Branding/screenshots/IMG_9189.png" alt="Screenshot 1"> | <img src="./Branding/screenshots/IMG_9190.png" alt="Screenshot 2"> | <img src="./Branding/screenshots/IMG_9191.png" alt="Screenshot 3"> |
+| <img src="./Branding/screenshots/IMG_9201.png" alt="Screenshot 4"> | <img src="./Branding/screenshots/IMG_9202.png" alt="Screenshot 5"> | <img src="./Branding/screenshots/IMG_9200.png" alt="Screenshot 6"> |
 
 
 
@@ -24,9 +24,9 @@ NeoFreeBird is a modified version of a modern Twitter app with various changes s
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| ![](/branding/screenshots/IMG_9192.png) | ![](/branding/screenshots/IMG_9193.png) | ![](/branding/screenshots/IMG_9194.png) |
-| ![](/branding/screenshots/IMG_9195.png) | ![](/branding/screenshots/IMG_9196.png) | ![](/branding/screenshots/IMG_9198.png) |
-| ![](/branding/screenshots/IMG_9199.png) |   |   |
+| ![](./Branding/screenshots/IMG_9192.png) | ![](./Branding/screenshots/IMG_9193.png) | ![](./Branding/screenshots/IMG_9194.png) |
+| ![](./Branding/screenshots/IMG_9195.png) | ![](./Branding/screenshots/IMG_9196.png) | ![](./Branding/screenshots/IMG_9198.png) |
+| ![](./Branding/screenshots/IMG_9199.png) |   |   |
 
 ## Why NeoFreeBird?
 NeoFreeBird differs from older Twitter apps or other branding reverts, as it constantly updates its Twitter app in order to keep features working for potential API changes and similar, along with keeping optimizations for newer devices
