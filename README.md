@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./Branding/Icon.jpg" alt="NeoFreeBird"  width="150" height="150">
+    <img src="./Branding/Icon.png" alt="NeoFreeBird" width="150" height="150">
  
   # Twitter, the way you want it
 
@@ -9,6 +9,16 @@
     Forked from <a href="https://github.com/nyathea/FreeBird">FreeBird by nyathea</a> and <a href="https://github.com/BandarHL/BHTwitter">BHTwitter by BandarHL</a>.
     <br>
   </p>
+
+  <div>
+    <a href="https://intradeus.github.io/http-protocol-redirector?r=altstore://source?url=https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/AltSource.json"><img src="./Branding/badges/add_to_altstore.png" alt="Add to AltStore" height="60"></a>
+    &nbsp;
+    <a href="https://intradeus.github.io/http-protocol-redirector?r=sidestore://source?url=https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/AltSource.json"><img src="./Branding/badges/add_to_sidestore.png" alt="Add to SideStore" height="60"></a>
+    &nbsp;
+    <a href="https://intradeus.github.io/http-protocol-redirector?r=feather://source/https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/AltSource.json"><img src="./Branding/badges/add_to_feather.png" alt="Add to Feather" height="60"></a>
+    &nbsp;
+    <a href="https://github.com/actuallyaridan/NeoFreeBird/releases/latest"><img src="./Branding/badges/download_from_github.png" alt="Download from GitHub" height="60"></a>
+  </div>
 </div>
 <br>
 
