@@ -3,21 +3,21 @@
     {
       "beta": false,
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "actuallyaridan, nyaathea, timi2506",
-      "downloadURL": "https://github.com/actuallyaridan/NeoFreeBird/releases/download/1.0/NeoFreeBird-1.0-Twitter-10.94-rev3.ipa",
-      "iconURL": "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/Icon.png",
+      "developerName": "actuallyaridan, nyaathea, timi2506, bean-factory",
+      "downloadURL": "https://github.com/bean-factory/NeoFreeBird/releases/download/1.0.1/NeoFreeBird-Twitter-11.2.6.ipa",
+      "iconURL": "https://raw.githubusercontent.com/bean-factory/NeoFreeBird/refs/heads/main/Branding/Icon.png",
       "localizedDescription": "A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.",
       "name": "NeoFreeBird",
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9189.png",
-        "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9190.png"
+        "https://raw.githubusercontent.com/bean-factory/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9189.png",
+        "https://raw.githubusercontent.com/bean-factory/NeoFreeBird/refs/heads/main/Branding/screenshots/IMG_9190.png"
       ],
-      "size": 151059429,
+      "size": 143835002,
       "subtitle": "A modified Twitter app, with branding reverts, BHTwitter and other QoL modifications.",
       "tintColor": "1DA1F2",
-      "version": "10.94",
-      "versionDate": "2025-05-04T14:00:00-07:00",
-      "versionDescription": "Twitter, version 10.94:\nUpdated the Twitter build to 10.94\n\nNeoFreeBird, version 1.0:\nImproved various translations in all locales (#13, #15)\nAdded Croatian and Ukrainian (thanks @ytrav)\n[Beta] Added the Tweet source label (like Twitter for iPhone and so on, thanks @nyathea)\nMade the Twitter bird follow the accent color (#20, thanks @nyathea)\nAdded the seasonal Twitter icons from 2022\nAdded the ability to disable the individual Photos/Videos tabs, the Articles tab, and the Highlights tab on profiles (thanks @nyathea)\nAdded the ability to disable the compact interaction buttons on Tweets (thanks @nyathea)\nRedesigned the NeoFreeBird settings page\nFixed tap-and-hold to speed up videos (#9)\nFixed the Video Download button causing crashes on 10.94 and beyond"
+      "version": "11.2.6",
+      "versionDate": "2025-05-08T14:00:00-07:00",
+      "versionDescription": "Twitter, version 11.2.6:\nUpdated the Twitter build to 11.2.6\n\nNeoFreeBird, version 1.0:\nImproved various translations in all locales (#13, #15)\nAdded Croatian and Ukrainian (thanks @ytrav)\n[Beta] Added the Tweet source label (like Twitter for iPhone and so on, thanks @nyathea)\nMade the Twitter bird follow the accent color (#20, thanks @nyathea)\nAdded the seasonal Twitter icons from 2022\nAdded the ability to disable the individual Photos/Videos tabs, the Articles tab, and the Highlights tab on profiles (thanks @nyathea)\nAdded the ability to disable the compact interaction buttons on Tweets (thanks @nyathea)\nRedesigned the NeoFreeBird settings page\nFixed tap-and-hold to speed up videos (#9)\nFixed the Video Download button causing crashes on 11.2.6 and beyond"
     }
   ],
   "identifier": "com.atebits.Tweetie2",
