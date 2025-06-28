@@ -20,4 +20,4 @@ Try opening NeoFreeBird from your home screen, if this is your first time sidelo
 Enjoy! You can now open NeoFreeBird from the home screen normally and start using it!
 
 > [!WARNING]
-> Keep in mind that the App will expire after 7 days if you do not have a paid Apple Developer Account after which you would have to repeat this process starting at Step 1
+> Keep in mind that the App will expire after 7 days if you do not have a paid Apple Developer Account after which you would have to repeat this process.
