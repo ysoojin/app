@@ -5,9 +5,7 @@
 - [The latest Sideloadly release](https://sideloadly.io/#download)
 
 ## Step 0
-Delete the existing Twitter App if you haven't already and connect your iPhone to your Mac or PC. You might have to trust the computer on your device.
-
-![Delete_Twitter](https://github.com/user-attachments/assets/a7433e49-ef0a-4663-b911-9e2db4d76c70)
+Connect your iPhone to your Mac or PC. You might have to trust the computer on your device.
 
 ## Step 1
 Drag the IPA into Sideloadly, press "Start" and sign in with your apple id if asked to do so.
