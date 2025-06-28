@@ -47,5 +47,5 @@ NeoFreeBird differs from older Twitter apps or other branding reverts, as it con
 
 > [!TIP]
 > <b>Would you rather add the patches yourself instead of using the IPA?</b> <br>
-> You can follow [these instructions](/P-I-Y.md) in order to make your own NeoFreeBird.
+> You can follow [these instructions](/docs/P-I-Y.md) in order to make your own NeoFreeBird.
 > Don't forget to run it through [NeoFreeBird-BHTwitter](https://github.com/actuallyaridan/NeoFreeBird-BHTwitter) to get all features!
