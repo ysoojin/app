@@ -17,7 +17,7 @@ This guide assumes that you have already read the [README](/README.md) and know 
 
 *¹ The 7-day expiration limit from the free developer account can be bypassed by purchasing a [paid Apple Developer account](https://developer.apple.com/programs/enroll/) which increases the limit to 365 days. A paid Apple Developer account is also required for notifications to work.
 
-*² NeoFreeBird can only be installed with AltStore Classic, NOT with AltStore PAL as it's a modification of an existing app and therefore can't be notarized
+*² NeoFreeBird can only be installed with AltStore Classic, NOT with AltStore PAL as it's a modification of an existing app and therefore can't be notarized.
 
 ### Links
 #### Sideloadly
