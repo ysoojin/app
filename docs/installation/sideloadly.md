@@ -1,5 +1,5 @@
 # Sideloady
-
+✅ Finished
 ## Prerequisites 
 - An IPA of NeoFreeBird
 - [The latest Sideloadly release](https://sideloadly.io/#download)
