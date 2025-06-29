@@ -5,10 +5,10 @@
 - [The latest Sideloadly release](https://sideloadly.io/#download)
 
 ## Step 0
-Connect your iPhone to your Mac or PC. You might have to trust the computer on your device.
+Connect your iPhone to your Mac or PC - You might have to trust the computer on your device.
 
 ## Step 1
-Drag the IPA into Sideloadly, press "Start" and sign in with your Apple ID if asked to do so.
+Drag the IPA into Sideloadly, press “Start”, make sure “Apple ID Sideload” is selected and authenticate with your Apple ID if asked to do so. Your credentials are sent directly to Apple to sign the app, Sideloadly does not touch them)
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/fb14d0dd-da20-463f-b2d7-3392809bc325" />
 
 ## Step 2
