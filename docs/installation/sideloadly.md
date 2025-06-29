@@ -1,5 +1,6 @@
 # Sideloady
-🚧 In Progress
+> [!WARNING]
+> 🚧 This guide is in progress
 ## Prerequisites 
 - An IPA of NeoFreeBird
 - [The latest Sideloadly release](https://sideloadly.io/#download)
