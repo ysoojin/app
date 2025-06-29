@@ -1,4 +1,4 @@
-# Sideloady
+# Sideloadly
 > [!WARNING]
 > 🚧 This guide is in progress
 ## Prerequisites 
