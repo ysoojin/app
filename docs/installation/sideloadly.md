@@ -12,7 +12,7 @@ Drag the IPA into Sideloadly, press “Start”, make sure “Apple ID Sideload�
 <img width="712" alt="image" src="https://github.com/user-attachments/assets/fb14d0dd-da20-463f-b2d7-3392809bc325" />
 
 ## Step 2
-Try opening NeoFreeBird from your home screen - if this is your first time sideloading with this Apple ID you might be prompted to trust the app under General > VPN & Device Management > yourappleid@example.com 
+Try opening NeoFreeBird from your home screen - if this is your first time sideloading with this Apple ID you might be prompted to trust the app under `General > VPN & Device Management > yourappleid@example.com`
 
 ![Trust](https://github.com/user-attachments/assets/16a570d1-4d31-4f2e-a8fc-f4b6c75a8054)
 
