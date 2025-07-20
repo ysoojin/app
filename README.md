@@ -5,7 +5,7 @@
   <i>Twitter, the way you want it</i>
 
   <p>
-    A modified Twitter app, with branding reverts, an improved BHTwitter fork, and other QoL modifications.
+    A modified Twitter app, with branding reverts, <a href="https://github.com/actuallyaridan/NeoFreeBird-BHTwitter">an improved BHTwitter fork</a>, and other QoL modifications.
     <br> 
     Forked from <a href="https://github.com/nyathea/FreeBird">FreeBird by nyathea</a> and <a href="https://github.com/BandarHL/BHTwitter">BHTwitter by BandarHL</a>.
     <br>
