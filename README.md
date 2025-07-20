@@ -1,7 +1,8 @@
 <div align="center">
     <img src="./Branding/Icon_rounded.png" alt="NeoFreeBird" width="150" height="150">
  
-  # Twitter, the way you want it
+  # NeoFreeBird
+  <i>Twitter, the way you want it</i>
 
   <p>
     A modified Twitter app, with branding reverts, an improved BHTwitter fork, and other QoL modifications.
