@@ -5,7 +5,7 @@
   <i>Twitter, the way you want it</i>
 
   <p>
-    A modified Twitter app, with branding reverts, <a href="https://github.com/actuallyaridan/NeoFreeBird-BHTwitter">an improved BHTwitter fork</a>, and other QoL modifications.
+    A modified Twitter app, with branding reverts, <a href="https://github.com/actuallyaridan/NeoFreeBird-BHTwitter">an updated BHTwitter fork</a>, and other QoL changes.
     <br> 
     Forked from <a href="https://github.com/nyathea/FreeBird">FreeBird by nyathea</a> and <a href="https://github.com/BandarHL/BHTwitter">BHTwitter by BandarHL</a>.
     <br>
@@ -31,16 +31,13 @@
 
 
 ## Features
-NeoFreeBird is a modified version of a modern Twitter app with various changes such as branding reverts and removal of unnecessary features, along with our own fork of BHTwitter for blocking ads, getting various Twitter Blue features for free and being able to customize Twitter in various ways like picking your own font or similar.
+NeoFreeBird is an modern Twitter/X version with various changes such as branding reverts, removal of unnecessary features, along with our own fork of BHTwitter for blocking ads, getting various Twitter Blue features for free and being able to customize Twitter in various ways. Theres tons of new features to try!
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 | ![](./Branding/screenshots/IMG_9192.png) | ![](./Branding/screenshots/IMG_9193.png) | ![](./Branding/screenshots/IMG_9194.png) |
 | ![](./Branding/screenshots/IMG_9195.png) | ![](./Branding/screenshots/IMG_9196.png) | ![](./Branding/screenshots/IMG_9198.png) |
 | ![](./Branding/screenshots/IMG_9199.png) |   |   |
-
-## Why NeoFreeBird?
-NeoFreeBird differs from older Twitter apps or other branding reverts, as it constantly updates its Twitter app in order to keep features working for potential API changes and similar, along with keeping optimizations for newer devices
 
 
 > [!NOTE]  
