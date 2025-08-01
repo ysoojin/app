@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./Branding/Icon_rounded.png" alt="NeoFreeBird" width="150" height="150">
+    <img src="./Branding/Icon_rounded.png" alt="NeoFreeBird" width="130" height="130">
  
   # NeoFreeBird
   <i>Twitter, the way it was meant to be</i>
