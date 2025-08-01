@@ -2,12 +2,12 @@
     <img src="./Branding/Icon_rounded.png" alt="NeoFreeBird" width="150" height="150">
  
   # NeoFreeBird
-  <i>Twitter, the way you want it</i>
+  <i>Twitter, the way it was meant to be</i>
 
   <p>
     A modified Twitter app, with branding reverts, <a href="https://github.com/actuallyaridan/NeoFreeBird-BHTwitter">an updated BHTwitter fork</a>, and other QoL changes.
     <br> 
-    Forked from <a href="https://github.com/nyathea/FreeBird">FreeBird by nyathea</a> and <a href="https://github.com/BandarHL/BHTwitter">BHTwitter by BandarHL</a>.
+    Originally started as <a href="https://github.com/nyathea/FreeBird">FreeBird by nyathea</a>
     <br>
   </p>
 
