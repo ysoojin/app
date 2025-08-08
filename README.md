@@ -41,8 +41,3 @@ NeoFreeBird is an modern Twitter/X version with various changes such as branding
 
 > [!NOTE]  
 > <b>There are some remains</b><br>You may still see some X branding and references to posts/posting, especially in web based stuff like Community Notes. We try our best to get rid of most of them.
-
-> [!TIP]
-> <b>Would you rather add the patches yourself instead of using the IPA?</b> <br>
-> You can follow [these instructions](/docs/P-I-Y.md) in order to make your own NeoFreeBird.
-> Don't forget to run it through [NeoFreeBird-BHTwitter](https://github.com/actuallyaridan/NeoFreeBird-BHTwitter) to get all features!
